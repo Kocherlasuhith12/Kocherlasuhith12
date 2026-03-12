@@ -20,20 +20,6 @@
 
 ---
 
-## 〔 About Me 〕
-```python
-suhith = {
-    "role"      :  "AI Backend Engineer",
-    "education" :  "B.Tech CSE @ SRM IST Trichy (2027)",
-    "focus"     : ["LLM Fine-tuning", "RAG Pipelines", "Scalable AI APIs"],
-    "stack"     : ["Python", "FastAPI", "PyTorch", "LangChain", "AWS", "Docker"],
-    "currently" :  "Building production-grade AI systems & chasing internships",
-    "reach_me"  :  "kocherlasuhith@gmail.com",
-}
-```
-
----
-
 <div align="center">
 
 ## 〔 Tech Stack 〕
