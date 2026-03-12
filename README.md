@@ -20,9 +20,13 @@
 
 ---
 
+---
+
 <div align="center">
 
 ## 〔 About Me 〕
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=999999&color=C9D1D9&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=170&lines=suhith+%3D+%7B;&nbsp;&nbsp;&nbsp;&nbsp;%22role%22+++++++%3A+%22AI+Backend+Engineer%22%2C;&nbsp;&nbsp;&nbsp;&nbsp;%22education%22+%3A+%22B.Tech+CSE+%40+SRM+IST+Trichy+(2027)%22%2C;&nbsp;&nbsp;&nbsp;&nbsp;%22focus%22+++++%3A+%5B%22LLM+Fine-tuning%22%2C+%22RAG%22%2C+%22MLOps%22%5D%2C;&nbsp;&nbsp;&nbsp;&nbsp;%22stack%22+++++%3A+%5B%22Python%22%2C+%22FastAPI%22%2C+%22PyTorch%22%2C+%22LangChain%22%5D%2C;&nbsp;&nbsp;&nbsp;&nbsp;%22reach_me%22++%3A+%22kocherlasuhith%40gmail.com%22%2C;%7D" />
 
 </div>
 
