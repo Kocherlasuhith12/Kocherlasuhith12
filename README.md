@@ -1,14 +1,94 @@
-<h3 align="center"> AI Backend Engineer | Generative AI • Python • Distributed Systems </h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kocherlakoteswarasuhithsravanbabu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kocherlakoteswarasuhithsravanbabu/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_babuuuu07_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_babuuuu07_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kocherlasravan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kocherlasravan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kocherlasravan12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kocherlasravan12/" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+# Kocherla Koteswara Suhith
+### AI Backend Engineer · Generative AI · Distributed Systems
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=7C86FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+Python+%26+FastAPI;LLMs+%7C+RAG+%7C+Fine-tuning+%7C+MLOps;CSE+%40+SRM+IST+Trichy+%7C+Class+of+2027)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## About Me
+```python
+suhith = {
+    "role"     : "AI Backend Engineer",
+    "education": "B.Tech CSE @ SRM IST Trichy (2027)",
+    "focus"    : ["LLM Fine-tuning", "RAG Pipelines", "Scalable AI APIs"],
+    "stack"    : ["Python", "FastAPI", "PyTorch", "LangChain", "AWS", "Docker"],
+    "currently": "Building production-grade AI systems & preparing for top internships",
+    "reach_me" : "kocherlasuhith@gmail.com"
+}
+```
+
+---
+
+## Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=0081CB)
+
+**Backend & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00C4CC)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+
+**Languages & Tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kocherlasuhith12&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=7C86FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=8" width="40%" />
+
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🧠 Scalable LLM Fine-tuning Pipeline](https://github.com/Kocherlasuhith12/scalable-llm-finetuning-pipeline) | Production pipeline for fine-tuning large language models at scale | Python · PyTorch · MLflow |
+| [🤖 AI Mock Interviewer](https://github.com/Kocherlasuhith12) | FastAPI-based AI system for technical interview simulation | FastAPI · LangChain · Python |
+| [📊 AI Project Risk Prediction](https://github.com/Kocherlasuhith12/AI-project-risk-prediction-platform) | ML-powered risk analysis for software projects | Python · XGBoost · React |
+| [🚦 TrafficIQ — Smart Traffic System](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System) | ML-driven adaptive traffic management system | Python · TypeScript · ML |
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kocherlasuhith)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/kocherlasravan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/kocherlasravan12/)
+[![Codolio](https://img.shields.io/badge/Codolio-0d1117?style=for-the-badge&logo=code&logoColor=7C86FF)](https://codolio.com/profile/Sravan26)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
