@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&animation=fadeIn)
 
-<h1>👋 Kocherla Koteswara Suhith</h1>
+<h1>👋 Kocherla Koteswara Suhith Sravan Babu</h1>
 
 <p>
   <img src="https://img.shields.io/badge/AI%20BACKEND%20ENGINEER-7C86FF?style=for-the-badge" />
