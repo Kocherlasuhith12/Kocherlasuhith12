@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=fadeIn)
 
 # Kocherla Koteswara Suhith
 ### AI Backend Engineer · Generative AI · Distributed Systems
@@ -35,6 +35,8 @@ suhith = {
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=0081CB)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 
 **Backend & Infrastructure**
 
@@ -46,10 +48,8 @@ suhith = {
 ![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00C4CC)
 ![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
 
-**Languages & Tools**
+**Dev Tools**
 
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
@@ -63,7 +63,7 @@ suhith = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kocherlasuhith12&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=7C86FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=8&hide=javascript,typescript,html,css" width="40%" />
 
 </div>
 
@@ -75,8 +75,8 @@ suhith = {
 |--------|-------------|-------|
 | [🧠 Scalable LLM Fine-tuning Pipeline](https://github.com/Kocherlasuhith12/scalable-llm-finetuning-pipeline) | Production pipeline for fine-tuning large language models at scale | Python · PyTorch · MLflow |
 | [🤖 AI Mock Interviewer](https://github.com/Kocherlasuhith12) | FastAPI-based AI system for technical interview simulation | FastAPI · LangChain · Python |
-| [📊 AI Project Risk Prediction](https://github.com/Kocherlasuhith12/AI-project-risk-prediction-platform) | ML-powered risk analysis for software projects | Python · XGBoost · React |
-| [🚦 TrafficIQ — Smart Traffic System](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System) | ML-driven adaptive traffic management system | Python · TypeScript · ML |
+| [📊 AI Project Risk Prediction](https://github.com/Kocherlasuhith12/AI-project-risk-prediction-platform) | ML-powered risk analysis for software projects | Python · XGBoost · FastAPI |
+| [🚦 TrafficIQ — Smart Traffic System](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System) | ML-driven adaptive traffic management system | Python · Scikit-learn · ML |
 
 ---
 
@@ -91,4 +91,4 @@ suhith = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
