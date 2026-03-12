@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-4ECDC4?style=for-the-badge" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=7C86FF&center=true&vCenter=true&width=750&height=40&lines=Building+intelligent+systems+with+Python+%26+FastAPI;LLMs+%7C+RAG+Pipelines+%7C+Fine-tuning+%7C+MLOps;CSE+%40+SRM+IST+Trichy+%7C+Class+of+2027;Open+to+AI+%26+Backend+Engineering+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=7C86FF&center=true&vCenter=true&width=750&height=40&lines=Python+%7C+FastAPI+%7C+PyTorch+%7C+LangChain+%7C+AWS;LLM+Fine-tuning+%7C+RAG+%7C+MLOps+%7C+Scalable+AI+APIs;CSE+%40+SRM+IST+Trichy+%7C+Class+of+2027;Open+to+AI+%26+Backend+Engineering+Internships)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,19 +20,7 @@
 
 ---
 
----
-
-<div align="center">
-
 ## 〔 About Me 〕
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=999999&color=C9D1D9&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=170&lines=suhith+%3D+%7B;&nbsp;&nbsp;&nbsp;&nbsp;%22role%22+++++++%3A+%22AI+Backend+Engineer%22%2C;&nbsp;&nbsp;&nbsp;&nbsp;%22education%22+%3A+%22B.Tech+CSE+%40+SRM+IST+Trichy+(2027)%22%2C;&nbsp;&nbsp;&nbsp;&nbsp;%22focus%22+++++%3A+%5B%22LLM+Fine-tuning%22%2C+%22RAG%22%2C+%22MLOps%22%5D%2C;&nbsp;&nbsp;&nbsp;&nbsp;%22stack%22+++++%3A+%5B%22Python%22%2C+%22FastAPI%22%2C+%22PyTorch%22%2C+%22LangChain%22%5D%2C;&nbsp;&nbsp;&nbsp;&nbsp;%22reach_me%22++%3A+%22kocherlasuhith%40gmail.com%22%2C;%7D" />
-
-</div>
-
-<table align="center">
-<tr>
-<td align="left" width="700">
 ```python
 suhith = {
     "role"      :  "AI Backend Engineer",
@@ -43,10 +31,6 @@ suhith = {
     "reach_me"  :  "kocherlasuhith@gmail.com",
 }
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
