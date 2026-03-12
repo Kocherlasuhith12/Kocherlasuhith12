@@ -1,4 +1,4 @@
-<h3 align="center"> AI Backend Engineer in Progress | GenAI • Python • Distributed Systems | Building Intelligent Applications </h3>
+<h3 align="center"> AI Backend Engineer | Generative AI • Python • Distributed Systems </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
