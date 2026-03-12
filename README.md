@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=140&section=header&animation=fadeIn)
 
-<h1>👋 Kocherla Koteswara Suhith Sravan Babu</h1>
+<h1>Kocherla Koteswara Suhith Sravan Babu</h1>
 
 <p>
   <img src="https://img.shields.io/badge/AI%20BACKEND%20ENGINEER-7C86FF?style=for-the-badge" />
@@ -17,6 +17,20 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Kocherlasuhith12&color=7C86FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+---
+
+## 〔 About Me 〕
+```python
+suhith = {
+    "role"      :  "AI Backend Engineer",
+    "education" :  "B.Tech CSE @ SRM IST Trichy (2027)",
+    "focus"     : ["LLM Fine-tuning", "RAG Pipelines", "Scalable AI APIs"],
+    "stack"     : ["Python", "FastAPI", "PyTorch", "LangChain", "AWS", "Docker"],
+    "currently" :  "Building production-grade AI systems & chasing internships",
+    "reach_me"  :  "kocherlasuhith@gmail.com",
+}
+```
 
 ---
 
@@ -92,6 +106,6 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=100&section=footer)
 
 </div>
