@@ -12,15 +12,12 @@
 ---
 
 ## About Me
-```python
-suhith = {
-    "role"     : "AI Backend Engineer",
-    "education": "B.Tech CSE @ SRM IST Trichy (2027)",
-    "focus"    : ["LLM Fine-tuning", "RAG Pipelines", "Scalable AI APIs"],
-    "stack"    : ["Python", "FastAPI", "PyTorch", "LangChain", "AWS", "Docker"],
-    "currently": "Building production-grade AI systems & preparing for top internships",
-    "reach_me" : "kocherlasuhith@gmail.com"
-}
+
+<div align="center">
+
+![About Me](https://carbon.now.sh/image?bg=rgba%280%2C0%2C0%2C0%29&t=one-dark&wt=none&l=python&width=680&ds=false&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=20px&ph=20px&ln=false&fl=1&fm=JetBrains+Mono&fs=13px&lh=152%25&si=false&es=2x&wm=false&code=suhith%2520%253D%2520%257B%250A%2520%2520%2520%2520%2522role%2522%2520%2520%2520%2520%2520%253A%2520%2522AI%2520Backend%2520Engineer%2522%252C%250A%2520%2520%2520%2520%2522education%2522%253A%2520%2522B.Tech%2520CSE%2520%2540%2520SRM%2520IST%2520Trichy%2520%25282027%2529%2522%252C%250A%2520%2520%2520%2520%2522focus%2522%2520%2520%2520%2520%253A%2520%255B%2522LLM%2520Fine-tuning%2522%252C%2520%2522RAG%2520Pipelines%2522%252C%2520%2522Scalable%2520AI%2520APIs%2522%255D%252C%250A%2520%2520%2520%2520%2522stack%2522%2520%2520%2520%2520%253A%2520%255B%2522Python%2522%252C%2520%2522FastAPI%2522%252C%2520%2522PyTorch%2522%252C%2520%2522LangChain%2522%252C%2520%2522AWS%2522%252C%2520%2522Docker%2522%255D%252C%250A%2520%2520%2520%2520%2522currently%2522%253A%2520%2522Building%2520production-grade%2520AI%2520systems%2520%2526%2520preparing%2520for%2520internships%2522%252C%250A%2520%2520%2520%2520%2522reach_me%2522%2520%253A%2520%2522kocherlasuhith%2540gmail.com%2522%250A%257D)
+
+</div>
 ```
 
 ---
