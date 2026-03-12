@@ -1,16 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&animation=fadeIn)
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-  Kocherla Koteswara Suhith Sravan Babu
-</h1>
+<h1>👋 Kocherla Koteswara Suhith</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Backend%20Engineer-0d1117?style=for-the-badge&color=7C86FF" />
-  <img src="https://img.shields.io/badge/Generative%20AI-0d1117?style=for-the-badge&color=FF6B9D" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-0d1117?style=for-the-badge&color=4ECDC4" />
+  <img src="https://img.shields.io/badge/AI%20BACKEND%20ENGINEER-7C86FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GENERATIVE%20AI-FF6B9D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-4ECDC4?style=for-the-badge" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=7C86FF&center=true&vCenter=true&width=750&height=40&lines=Building+intelligent+systems+with+Python+%26+FastAPI;LLMs+%7C+RAG+Pipelines+%7C+Fine-tuning+%7C+MLOps;CSE+%40+SRM+IST+Trichy+%7C+Class+of+2027;Open+to+AI+%26+Backend+Engineering+Internships)](https://git.io/typing-svg)
@@ -29,11 +26,23 @@
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="left" width="700">
+```python
+suhith = {
+    "role"      :  "AI Backend Engineer",
+    "education" :  "B.Tech CSE @ SRM IST Trichy (2027)",
+    "focus"     : ["LLM Fine-tuning", "RAG Pipelines", "Scalable AI APIs"],
+    "stack"     : ["Python", "FastAPI", "PyTorch", "LangChain", "AWS", "Docker"],
+    "currently" :  "Building production-grade AI systems & chasing internships",
+    "reach_me"  :  "kocherlasuhith@gmail.com",
+}
+```
 
-[![Carbon](https://carbon.now.sh/image?bg=rgba%2813%2C17%2C23%2C1%29&t=one-dark&wt=none&l=python&width=700&ds=false&wc=true&wa=true&pv=24px&ph=32px&ln=false&fm=JetBrains+Mono&fs=13.5px&lh=155%25&si=false&es=2x&wm=false&code=suhith%2520%253D%2520%257B%250A%2520%2520%2520%2520%2522role%2522%2520%2520%2520%2520%2520%253A%2520%2522AI%2520Backend%2520Engineer%2522%252C%250A%2520%2520%2520%2520%2522education%2522%253A%2520%2522B.Tech%2520CSE%2520%2540%2520SRM%2520IST%2520Trichy%2520%25282027%2529%2522%252C%250A%2520%2520%2520%2520%2522focus%2522%2520%2520%2520%2520%253A%2520%255B%2522LLM%2520Fine-tuning%2522%252C%2520%2522RAG%2520Pipelines%2522%252C%2520%2522Scalable%2520AI%2520APIs%2522%255D%252C%250A%2520%2520%2520%2520%2522stack%2522%2520%2520%2520%2520%253A%2520%255B%2522Python%2522%252C%2520%2522FastAPI%2522%252C%2520%2522PyTorch%2522%252C%2520%2522LangChain%2522%252C%2520%2522AWS%2522%252C%2520%2522Docker%2522%255D%252C%250A%2520%2520%2520%2520%2522currently%2522%253A%2520%2522Building%2520production-grade%2520AI%2520systems%2520%2526%2520chasing%2520internships%2522%252C%250A%2520%2520%2520%2520%2522reach_me%2522%2520%253A%2520%2522kocherlasuhith%2540gmail.com%2522%250A%257D)](https://carbon.now.sh)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,11 +77,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 〔 GitHub Stats 〕
 
@@ -87,17 +92,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&bg_color=0d1117&color=7C86FF&line=7C86FF&point=FF6B6B&area=true&area_color=7C86FF&hide_border=true" width="95%" />
 
-</div>
-
 ---
 
-<div align="center">
-
 ## 〔 Featured Projects 〕
-
-</div>
-
-<div align="center">
 
 | 🚀 Project | 📌 Description | 🛠 Stack |
 |:-----------|:--------------|:---------|
@@ -106,11 +103,7 @@
 | [📊 AI Project Risk Prediction](https://github.com/Kocherlasuhith12/AI-project-risk-prediction-platform) | ML-powered risk analysis platform for software projects | Python · XGBoost · FastAPI |
 | [🚦 TrafficIQ — Smart Traffic System](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System) | ML-driven adaptive traffic management system | Python · Scikit-learn · ML |
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 〔 Connect With Me 〕
 
@@ -125,6 +118,6 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
 
 </div>
