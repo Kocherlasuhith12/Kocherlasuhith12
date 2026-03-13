@@ -81,23 +81,6 @@
 
 ---
 
-## 〔 Coding Stats 〕
-
-<img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&bgcolor=0d1117&border_color=7C86FF" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kocherlasuhith12&theme=tokyonight" width="49%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kocherlasuhith12&theme=tokyonight" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kocherlasuhith12&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kocherlasuhith12&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kocherlasuhith12&theme=tokyonight&utcOffset=5.5" width="32%" />
-
----
-
 ## 〔 Featured Projects 〕
 
 | 🚀 Project | 📌 Description | 🛠 Stack |
