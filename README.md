@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=140&section=header&animation=fadeIn)
 
-<h1>Kocherla Koteswara Suhith Sravan Babu</h1>
+<h1>👋 Kocherla Koteswara Suhith</h1>
 
 <p>
   <img src="https://img.shields.io/badge/AI%20BACKEND%20ENGINEER-7C86FF?style=for-the-badge" />
@@ -17,6 +17,20 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Kocherlasuhith12&color=7C86FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+---
+
+## 〔 About Me 〕
+```python
+suhith = {
+    "role"      :  "AI Backend Engineer",
+    "education" :  "B.Tech CSE @ SRM IST Trichy (2027)",
+    "focus"     : ["LLM Fine-tuning", "RAG Pipelines", "Scalable AI APIs"],
+    "stack"     : ["Python", "FastAPI", "PyTorch", "LangChain", "AWS", "Docker"],
+    "currently" :  "Building production-grade AI systems & chasing internships",
+    "reach_me"  :  "kocherlasuhith@gmail.com",
+}
+```
 
 ---
 
@@ -68,6 +82,19 @@
 
 ---
 
+## 〔 Coding Stats 〕
+
+<img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&bgcolor=0d1117&border_color=7C86FF" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kocherlasuhith12&theme=tokyonight" width="49%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kocherlasuhith12&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kocherlasuhith12&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kocherlasuhith12&theme=tokyonight&utcOffset=5.5" width="32%" />
+
+---
+
 ## 〔 Featured Projects 〕
 
 | 🚀 Project | 📌 Description | 🛠 Stack |
@@ -82,8 +109,8 @@
 ## 〔 Connect With Me 〕
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kocherlasuhith)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/kocherlasravan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/kocherlasravan12/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/kocherlasravan)
 [![Codolio](https://img.shields.io/badge/Codolio-0d1117?style=for-the-badge&logo=code&logoColor=7C86FF)](https://codolio.com/profile/Sravan26)
 
 <br/>
