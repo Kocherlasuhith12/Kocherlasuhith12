@@ -1,64 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C86FF&height=150&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=140&section=header&animation=fadeIn)
 
-# ⚡ 𝙺𝚘𝚌𝚑𝚎𝚛𝚕𝚊 𝙺𝚘𝚝𝚎𝚜𝚠𝚊𝚛𝚊 𝚂𝚞𝚑𝚒𝚝𝚑 𝚂𝚛𝚊𝚟𝚊𝚗 𝙱𝚊𝚋𝚞
+<h1>𝙺𝚘𝚌𝚑𝚎𝚛𝚕𝚊 𝙺𝚘𝚝𝚎𝚜𝚠𝚊𝚛𝚊 𝚂𝚞𝚑𝚒𝚝𝚑 𝚂𝚛𝚊𝚟𝚊𝚗 𝙱𝚊𝚋𝚞</h1>
 
-### AI Backend Engineer | Generative AI | Distributed Systems
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=1000&color=7C86FF&center=true&vCenter=true&width=750&height=40&lines=Python+%7C+FastAPI+%7C+PyTorch+%7C+LangChain+%7C+AWS;LLM+Fine-tuning+%7C+RAG+%7C+MLOps+%7C+Scalable+AI+APIs;CSE+%40+SRM+IST+Trichy+%7C+Class+of+2027;Open+to+AI+%26+Backend+Engineering+Internships)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://linkedin.com/in/kocherlasuhith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kocherlasuhith@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/u/kocherlasravan12/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/profile/kocherlasravan"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://codolio.com/profile/Sravan26"><img src="https://img.shields.io/badge/Codolio-7C86FF?style=flat-square&logo=code&logoColor=white" alt="Codolio" /></a>
+<p>
+  <img src="https://img.shields.io/badge/AI%20BACKEND%20ENGINEER-7C86FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GENERATIVE%20AI-FF6B9D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-4ECDC4?style=for-the-badge" />
 </p>
 
-</div>
-
----
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h2>✦ About Me</h2>
-      <p>I am an innovative <b>AI & Backend Engineer</b> with a passion for building scalable, intelligent systems. Currently pursuing my Computer Science degree at SRM IST Trichy (Class of 2027), I specialize in integrating cutting-edge machine learning models with robust backend architectures.</p>
-      <ul>
-        <li>🚀 Building high-performance microservices and AI pipelines.</li>
-        <li>🧠 Exploring LLM fine-tuning, RAG agents, and MLOps.</li>
-        <li>🌱 Currently learning advanced Cloud Architectures and Distributed Systems.</li>
-        <li>💬 Ask me about <b>Python, FastAPI, PyTorch, and LangChain</b>.</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <h2>✦ Tech Stack</h2>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit&perline=4" alt="skills" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=fastapi,aws,docker,postgres&perline=4" alt="skills" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,git,vscode,linux&perline=4" alt="skills" />
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-## 📊 Analytics & Impact
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kocherlasuhith12&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff" height="195" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=7C86FF&center=true&vCenter=true&width=750&height=40&lines=Python+%7C+FastAPI+%7C+PyTorch+%7C+LangChain+%7C+AWS;LLM+Fine-tuning+%7C+RAG+%7C+MLOps+%7C+Scalable+AI+APIs;CSE+%40+SRM+IST+Trichy+%7C+Class+of+2027;Open+to+AI+%26+Backend+Engineering+Internships)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages" />
-<img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&bgcolor=0d1117&border_color=7C86FF" height="165" alt="LeetCode Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&bg_color=0d1117&color=7C86FF&line=7C86FF&point=FF6B6B&area=true&area_color=7C86FF&hide_border=true" width="95%" alt="Activity Graph" />
+![Profile Views](https://komarev.com/ghpvc/?username=Kocherlasuhith12&color=7C86FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -66,24 +22,84 @@
 
 <div align="center">
 
-## 🚀 Featured AI & Backend Architecture
+## 〔 Tech Stack 〕
 
-| Project | Description | Primary Stack |
-| :--- | :--- | :--- |
-| **[🧠 Scalable LLM Fine-tuning Pipeline](https://github.com/Kocherlasuhith12/scalable-llm-finetuning-pipeline)** | Production pipeline for fine-tuning LLMs at scale | `Python` `PyTorch` `MLflow` |
-| **[🤖 AI Mock Interviewer](https://github.com/Kocherlasuhith12)** | Agentic FastAPI system for tech interview simulation | `FastAPI` `LangChain` `Python` |
-| **[📊 AI Project Risk Prediction](https://github.com/Kocherlasuhith12/AI-project-risk-prediction-platform)** | Risk analysis platform for complex software projects | `XGBoost` `FastAPI` `Python` |
-| **[🚦 TrafficIQ — Smart Traffic System](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System)** | ML-driven adaptive traffic management algorithms | `Python` `Scikit-learn` `ML` |
+**✦ AI & Machine Learning ✦**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=0081CB)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+
+**✦ Backend & Infrastructure ✦**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00C4CC)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+
+**✦ Dev Tools ✦**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+---
+
+## 〔 GitHub Stats 〕
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kocherlasuhith12&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&timezone=Asia/Kolkata" height="195" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true" height="195" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=6&hide=javascript,typescript,html,css" width="40%" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution%20Graph&bg_color=0d1117&color=7C86FF&line=7C86FF&point=FF6B6B&area=true&hide_border=true" width="95%" />
+
+---
+
+## 〔 Coding Stats 〕
+
+<img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&bgcolor=0d1117&border_color=7C86FF" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kocherlasuhith12&theme=tokyonight" height="160" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kocherlasuhith12&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kocherlasuhith12&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kocherlasuhith12&theme=tokyonight&utcOffset=5.5" width="32%" />
+
+---
+
+## 〔 Featured Projects 〕
+
+| 🚀 Project | 📌 Description | 🛠 Stack |
+|:-----------|:--------------|:---------|
+| [🧠 Scalable LLM Fine-tuning Pipeline](https://github.com/Kocherlasuhith12/scalable-llm-finetuning-pipeline) | Production pipeline for fine-tuning LLMs at scale | Python · PyTorch · MLflow |
+| [🤖 AI Mock Interviewer](https://github.com/Kocherlasuhith12) | FastAPI-based AI system for technical interview simulation | FastAPI · LangChain · Python |
+| [📊 AI Project Risk Prediction](https://github.com/Kocherlasuhith12/AI-project-risk-prediction-platform) | ML-powered risk analysis platform for software projects | Python · XGBoost · FastAPI |
+| [🚦 TrafficIQ — Smart Traffic System](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System) | ML-driven adaptive traffic management system | Python · Scikit-learn · ML |
+
+---
+
+## 〔 Connect With Me 〕
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kocherlasuhith)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/kocherlasravan12/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/kocherlasravan)
+[![Codolio](https://img.shields.io/badge/Codolio-0d1117?style=for-the-badge&logo=code&logoColor=7C86FF)](https://codolio.com/profile/Sravan26)
 
 <br/>
 
 > *"The best way to predict the future is to build it."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C86FF&height=100&section=footer" width="100%" />
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kocherlasuhith12&color=7C86FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=100&section=footer)
 
 </div>
-```
