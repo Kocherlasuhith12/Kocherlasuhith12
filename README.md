@@ -22,19 +22,6 @@
 
 <div align="center">
 
-## 〔 About Me 〕
-
-</div>
-
-```python
-class SuhithBabu:
-    role        = "AI Engineer (in progress)"
-    university  = "SRM IST Trichy — B.Tech CSE, Class of 2027"
-    focus       = ["LLM Systems", "RAG Pipelines", "AI Backends", "MLOps"]
-    building    = "ClinicalMind — AI diagnostic co-pilot for rural healthcare workers"
-    open_to     = "AI & Backend Engineering Internships"
-    goal        = "Ship AI products that scale and create real impact"
-```
 
 ---
 
