@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="about_me.svg" width="860" alt="About KKS Suhith Babu"/>
+<img src="https://raw.githubusercontent.com/Kocherlasuhith12/Kocherlasuhith12/main/about_me.svg" width="860" alt="About KKS Suhith Babu"/>
 
 <br/>
 
