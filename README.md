@@ -26,22 +26,7 @@
 
 <br/>
 
-![Role](https://img.shields.io/badge/Role-AI%20Engineer%20%28in%20progress%29-7C86FF?style=for-the-badge&logoColor=white)
-![University](https://img.shields.io/badge/University-SRM%20IST%20Trichy%20%7C%20B.Tech%20CSE-4ECDC4?style=for-the-badge&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-Class%20of%202027-FF6B9D?style=for-the-badge&logoColor=white)
-
-<br/>
-
-![Focus](https://img.shields.io/badge/Focus-LLM%20Systems%20%7C%20RAG%20Pipelines%20%7C%20AI%20Backends%20%7C%20MLOps-0d1117?style=for-the-badge&labelColor=7C86FF&color=0d1117)
-
-<br/>
-
-![Building](https://img.shields.io/badge/🏥%20Building-ClinicalMind%20%E2%80%94%20AI%20Diagnostic%20Co--pilot%20for%20Rural%20Healthcare-0d1117?style=for-the-badge&labelColor=FF6B9D&color=0d1117)
-
-<br/>
-
-![Open To](https://img.shields.io/badge/Open%20To-AI%20%26%20Backend%20Engineering%20Internships-0d1117?style=for-the-badge&labelColor=4ECDC4&color=0d1117)
-![Goal](https://img.shields.io/badge/Goal-Ship%20AI%20Products%20That%20Scale%20%26%20Matter-0d1117?style=for-the-badge&labelColor=8E54E9&color=0d1117)
+<img src="about_me.svg" width="860" alt="About KKS Suhith Babu"/>
 
 <br/>
 
