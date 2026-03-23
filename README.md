@@ -22,26 +22,6 @@
 
 <div align="center">
 
-## 〔 About Me 〕
-
-🎓 B.Tech CSE @ SRM IST Trichy · Class of 2027 &nbsp;|&nbsp; 📍 India
-
-🤖 Aspiring **AI Engineer** focused on building production-grade LLM systems, RAG pipelines, and scalable AI backends
-
-🏥 Currently building **ClinicalMind** — an AI diagnostic co-pilot for rural healthcare workers with multilingual & offline-first support
-
-🔭 Exploring **LLM Fine-tuning · MLOps · Vector Databases · Distributed AI Systems**
-
-💼 Open to **AI & Backend Engineering Internships**
-
-🎯 Goal: Ship AI products that scale and create real-world impact
-
-</div>
-
----
-
-<div align="center">
-
 ## 〔 Tech Stack 〕
 
 ### ◈ AI & Machine Learning
