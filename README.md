@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=140&section=header&animation=fadeIn)
 
-<h1>Kocherla Koteswara Suhith Sravan Babu</h1>
+<h1>KKS Sravan Babu</h1>
 
 <p>
   <img src="https://img.shields.io/badge/AI%20ENGINEER-7C86FF?style=for-the-badge" />
