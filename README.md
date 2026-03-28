@@ -4,7 +4,7 @@
 
 <h1>KKS Sravan Babu</h1>
 
-<p>
+<p> 
   <img src="https://img.shields.io/badge/AI%20ENGINEER-7C86FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BACKEND%20ENGINEERING-FF6B9D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GENERATIVE%20AI-4ECDC4?style=for-the-badge" />
