@@ -30,18 +30,18 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=0081CB)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=0081CB)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 
 ### ◈ GenAI & LLM Tooling
 
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logo=llama&logoColor=7C86FF)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logoColor=7C86FF)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
 ![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=for-the-badge&logo=openai&logoColor=FF6B9D)
-![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00C4CC)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logoColor=00C4CC)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logoColor=0194E2)
 
 ### ◈ Backend & Infrastructure
 
