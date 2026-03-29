@@ -69,7 +69,7 @@
 
 ## 〔 GitHub Stats 〕
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kocherlasuhith12&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&timezone=Asia/Kolkata" height="195" />
+<img src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=tokyonight&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&timezone=Asia%2FKolkata" height="195" />
 <img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true" height="195" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=6&hide=javascript,html,css" width="40%" />
