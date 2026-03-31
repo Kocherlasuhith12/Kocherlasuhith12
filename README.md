@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=140&section=header&animation=fadeIn)
 
-<h1>KKS Sravan Babu</h1>
+<h1>KKS Suhith Babu</h1>
 
 <p> 
   <img src="https://img.shields.io/badge/AI%20ENGINEER-7C86FF?style=for-the-badge" />
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/GENERATIVE%20AI-4ECDC4?style=for-the-badge" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=7C86FF&center=true&vCenter=true&width=800&height=40&lines=Python+%7C+FastAPI+%7C+PyTorch+%7C+LangChain+%7C+LlamaIndex;LLM+Fine-tuning+%7C+RAG+Pipelines+%7C+MLOps+%7C+Vector+DBs;CSE+%40+SRM+IST+Trichy+%7C+Class+of+2027;Building+AI+systems+that+scale+and+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=7C86FF&center=true&vCenter=true&width=800&height=40&lines=Python+%7C+FastAPI+%7C+PyTorch+%7C+LangChain+%7C+LlamaIndex;LLM+Fine-tuning+%7C+RAG+Pipelines+%7C+MLOps+%7C+Vector+DBs;CSE+%40+SRM+IST+Trichy+%7C+Class+of+2027;Building+AI+systems+that+scale+and+matter)](https://git.io/typing-svg)
 
 <br/>
 
@@ -70,11 +70,16 @@
 ## 〔 GitHub Stats 〕
 
 <img src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=tokyonight&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&timezone=Asia%2FKolkata" height="195" />
-<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true" height="195" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="195" />
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=6&hide=javascript,html,css" width="40%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=6&hide=javascript,html,css&cache_seconds=1800" width="40%" />
+
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution%20Graph&bg_color=0d1117&color=7C86FF&line=7C86FF&point=FF6B6B&area=true&hide_border=true" width="95%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution%20Graph&bg_color=0d1117&color=7C86FF&line=7C86FF&point=FF6B6B&area=true&hide_border=true&area_color=7C86FF" width="95%" />
 
 </div>
 
@@ -84,7 +89,10 @@
 
 ## 〔 Coding Stats 〕
 
-<img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&bgcolor=0d1117&border_color=7C86FF" height="160" />
+<a href="https://leetcode.com/u/kocherlasravan12/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&bgcolor=0d1117&border_color=7C86FF&sheets=https://jacoblincool.github.io/LeetCode-Stats-Card/sheets/default.css" height="160" />
+</a>
+&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kocherlasuhith12&theme=tokyonight" height="160" />
 
 <br/>
