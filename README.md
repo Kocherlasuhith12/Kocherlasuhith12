@@ -69,19 +69,16 @@
 
 ## 〔 GitHub Stats 〕
 
-<!-- Streak: demolab hosted — most stable streak service available -->
-<img src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=tokyonight&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&timezone=Asia%2FKolkata" height="195" />
+<img src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=tokyonight&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&stroke=0d1117&timezone=Asia%2FKolkata" height="195" />
 
 <br/>
 
-<!-- GitHub Stats + Top Langs: cache_seconds=86400 avoids rate-limit broken images -->
 <img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" height="195" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=6&hide=javascript,html,css&cache_seconds=86400" height="195" />
 
 <br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution%20Graph&bg_color=0d1117&color=7C86FF&line=7C86FF&point=FF6B6B&area=true&hide_border=true&area_color=7C86FF" width="95%" />
 
 </div>
@@ -92,17 +89,12 @@
 
 ## 〔 Coding Stats 〕
 
-<!-- LeetCode card: jacoblin — renders fine -->
 <a href="https://leetcode.com/u/kocherlasravan12/">
   <img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&bgcolor=0d1117&border_color=7C86FF" height="175" />
 </a>
 
 <br/><br/>
 
-<!-- 
-  github-profile-summary-cards was broken in your screenshot (3 broken image icons).
-  Replaced entirely with shields.io badges — CDN-backed, 100% reliable, never break.
--->
 ![](https://img.shields.io/github/followers/Kocherlasuhith12?label=GitHub%20Followers&style=for-the-badge&color=7C86FF&labelColor=0d1117&logo=github&logoColor=white)
 &nbsp;
 ![](https://img.shields.io/github/stars/Kocherlasuhith12?label=Total%20Stars%20Earned&style=for-the-badge&color=FF6B6B&labelColor=0d1117&logo=github&logoColor=white&affiliations=OWNER)
