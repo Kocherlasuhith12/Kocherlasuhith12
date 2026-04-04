@@ -1,144 +1,135 @@
+<!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=140&section=header&animation=fadeIn)
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   K K S   S U H I T H   B A B U                               ║
+║   ─────────────────────────────                               ║
+║   AI Engineer  ·  Backend Systems  ·  Generative AI           ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<h1>KKS Suhith Babu</h1>
-
-<p> 
-  <img src="https://img.shields.io/badge/AI%20ENGINEER-7C86FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BACKEND%20ENGINEERING-FF6B9D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GENERATIVE%20AI-4ECDC4?style=for-the-badge" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=7C86FF&center=true&vCenter=true&width=800&height=40&lines=Python+%7C+FastAPI+%7C+PyTorch+%7C+LangChain+%7C+LlamaIndex;LLM+Fine-tuning+%7C+RAG+Pipelines+%7C+MLOps+%7C+Vector+DBs;CSE+%40+SRM+IST+Trichy+%7C+Class+of+2027;Building+AI+systems+that+scale+and+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=3000&pause=800&color=E8C547&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Building+AI+systems+that+actually+ship+%E2%86%92;FastAPI+%C2%B7+PyTorch+%C2%B7+LangChain+%C2%B7+LlamaIndex+%C2%B7+RAG+Pipelines;CSE+%40+SRM+IST+Trichy+%E2%80%94+Class+of+2027)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kocherlasuhith12&color=7C86FF&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Kocherlasuhith12&style=flat-square&color=E8C547&label=profile+views)
 
 </div>
 
 ---
 
-<div align="center">
+## Who I Am
 
-## 〔 Tech Stack 〕
+I'm a third-year CSE student building toward a career as an AI Engineer — not just using AI tools, but engineering the systems behind them. I focus on the intersection of **LLMs, backend infrastructure, and production deployment**.
 
-### ◈ AI & Machine Learning
+My work spans RAG pipelines, fine-tuning workflows, computer vision, and clinical AI. I care about systems that are fast, scalable, and actually useful in the real world — not just impressive in notebooks.
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=0081CB)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-
-### ◈ GenAI & LLM Tooling
-
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logoColor=7C86FF)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
-![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=for-the-badge&logo=openai&logoColor=FF6B9D)
-![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logoColor=00C4CC)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logoColor=0194E2)
-
-### ◈ Backend & Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-
-### ◈ Frontend & Dev Tools
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-</div>
+Currently interning at **BitApps** (AI Engineering, Apr 2026), studying at **SRM IST Trichy** with a CGPA of 8.17.
 
 ---
 
-<div align="center">
+## What I Build
 
-## 〔 GitHub Stats 〕
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=tokyonight&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&stroke=0d1117&timezone=Asia%2FKolkata" height="195" />
+**🏥 ClinicalMind** &nbsp;·&nbsp; [repo](https://github.com/Kocherlasuhith12)
 
-<br/>
+AI diagnostic co-pilot for rural healthcare workers in India. Multilingual (Tamil · Hindi · English), offline-first PWA with voice input + symptom analysis.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" height="195" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=6&hide=javascript,html,css&cache_seconds=86400" height="195" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution%20Graph&bg_color=0d1117&color=7C86FF&line=7C86FF&point=FF6B6B&area=true&hide_border=true&area_color=7C86FF" width="95%" />
-
-</div>
+`FastAPI` `GPT-4o Vision` `Whisper` `LlamaIndex` `Pinecone` `React PWA`
 
 ---
 
-<div align="center">
+**🚦 TrafficIQ** &nbsp;·&nbsp; [repo](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System)
 
-## 〔 Coding Stats 〕
+Adaptive traffic signal management using real-time ML. Computer vision pipeline + live dashboard built for a minor project submission.
 
-<a href="https://leetcode.com/u/kocherlasravan12/">
-  <img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&bgcolor=0d1117&border_color=7C86FF" height="175" />
-</a>
+`YOLOv8m` `FastAPI` `React` `OpenCV` `Python`
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
-![](https://img.shields.io/github/followers/Kocherlasuhith12?label=GitHub%20Followers&style=for-the-badge&color=7C86FF&labelColor=0d1117&logo=github&logoColor=white)
-&nbsp;
-![](https://img.shields.io/github/stars/Kocherlasuhith12?label=Total%20Stars%20Earned&style=for-the-badge&color=FF6B6B&labelColor=0d1117&logo=github&logoColor=white&affiliations=OWNER)
-&nbsp;
-![](https://img.shields.io/badge/LeetCode%20Solved-29-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117)
+**🧠 LLM Fine-Tuning Pipeline** &nbsp;·&nbsp; [repo](https://github.com/Kocherlasuhith12/scalable-llm-finetuning-pipeline)
 
-</div>
+Production-grade pipeline for fine-tuning LLMs at scale. Experiment tracking, modular architecture, Docker-ready.
+
+`PyTorch` `MLflow` `Docker` `Python`
 
 ---
 
-<div align="center">
+**📊 AI Project Risk Prediction** &nbsp;·&nbsp; [repo](https://github.com/Kocherlasuhith12/AI-project-risk-prediction-platform)
 
-## 〔 Featured Projects 〕
+ML-powered risk analysis for software projects. Random Forest classifier backend + React dashboard with JWT auth.
 
-</div>
+`XGBoost` `FastAPI` `React` `PostgreSQL`
 
-| 🚀 Project | 📌 Description | 🛠 Stack |
-|:-----------|:--------------|:---------|
-| [🏥 ClinicalMind](https://github.com/Kocherlasuhith12) | AI diagnostic co-pilot for rural healthcare workers — multilingual (Tamil · Hindi · English), offline-first PWA with voice input and symptom analysis | FastAPI · GPT-4o Vision · Whisper · LlamaIndex · Pinecone · React |
-| [🧠 Scalable LLM Fine-tuning Pipeline](https://github.com/Kocherlasuhith12/scalable-llm-finetuning-pipeline) | Production-grade pipeline for fine-tuning LLMs at scale with experiment tracking | Python · PyTorch · MLflow · Docker |
-| [📊 AI Project Risk Prediction](https://github.com/Kocherlasuhith12/AI-project-risk-prediction-platform) | ML-powered risk analysis platform for software projects with FastAPI backend and React dashboard | Python · XGBoost · FastAPI · React · JWT |
-| [🤖 AI Mock Interviewer](https://github.com/Kocherlasuhith12) | FastAPI-based AI system for simulating technical interviews with adaptive follow-up | FastAPI · LangChain · Python |
-| [🚦 TrafficIQ](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System) | ML-driven adaptive traffic management system with real-time signal control | Python · Scikit-learn · OpenCV |
+</td>
+</tr>
+</table>
+
+> 🤖 **NeuralForge Bot** — Built an Iterative Deepening Alpha-Beta Minimax agent for Chain Reaction (12×8 board) at IIT Patna's Critical Mass AI Bot Challenge. Achieved **30/30 wins** in tournament testing.
 
 ---
 
-<div align="center">
+## Tech Stack
 
-## 〔 Connect With Me 〕
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kocherlasuhith)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/kocherlasravan12/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/kocherlasravan)
-[![Codolio](https://img.shields.io/badge/Codolio-0d1117?style=for-the-badge&logo=code&logoColor=7C86FF)](https://codolio.com/profile/Sravan26)
-
-<br/>
-
-> *"The best way to predict the future is to build it."*
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=100&section=footer)
-
-</div>
+```
+AI / ML          →   Python · PyTorch · TensorFlow · Scikit-learn · XGBoost · NumPy · Pandas
+GenAI & LLMs     →   LangChain · LlamaIndex · OpenAI API · Whisper · Pinecone · MLflow
+Backend          →   FastAPI · PostgreSQL · MongoDB · Redis · Docker · AWS
+Frontend         →   React · TypeScript · Vite · Tailwind
+Tooling          →   Git · VS Code · Jupyter · Linux
 ```
 
 ---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=github-dark-blue&hide_border=true&background=0d1117&ring=E8C547&fire=E8C547&currStreakLabel=E8C547&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&stroke=0d1117" height="185" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C547&icon_color=E8C547&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="185" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E8C547&text_color=c9d1d9&langs_count=6&hide=javascript,html,css" height="185" />
+
+</div>
+
+---
+
+## LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/kocherlasravan12/">
+  <img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=4&bgcolor=0d1117" height="165" />
+</a>
+
+</div>
+
+---
+
+## Find Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kocherlasuhith-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/kocherlasuhith)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-kocherlasravan12-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/kocherlasravan12/)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-kocherlasravan-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/kocherlasravan)
+&nbsp;
+[![Codolio](https://img.shields.io/badge/Codolio-Sravan26-555?style=flat-square)](https://codolio.com/profile/Sravan26)
+
+<br/>
+
+*Open to AI Engineering roles, research collabs, and meaningful problems.*
+
+</div>
