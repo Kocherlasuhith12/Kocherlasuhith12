@@ -92,24 +92,6 @@
 
 </div>
 
-<br/>
-
-### ⬡ Embedded, Quantum & Geospatial
-
-<div align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Qiskit](https://img.shields.io/badge/Qiskit-0d1117?style=for-the-badge&logo=ibm&logoColor=6929C4)
-![ROS](https://img.shields.io/badge/ROS-0d1117?style=for-the-badge&logo=ros&logoColor=22314E)
-![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logoColor=E7352C)
-![Mapbox](https://img.shields.io/badge/Mapbox-0d1117?style=for-the-badge&logo=mapbox&logoColor=000000)
-![NASA FIRMS](https://img.shields.io/badge/NASA%20FIRMS-0d1117?style=for-the-badge&logo=nasa&logoColor=FC3D21)
-
-</div>
-
-<br/>
-
 ### ⬡ Languages & Data
 
 <div align="center">
