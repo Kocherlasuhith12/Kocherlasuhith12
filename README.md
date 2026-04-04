@@ -195,7 +195,7 @@ Production-grade fine-tuning infrastructure with full experiment tracking. Built
 │   Open to: AI engineering roles · research collabs · projects worth          │
 │            building · problems nobody's solved cleanly yet.                  │
 │                                                                              │
-│   SRM IST Trichy · CSE · 2027 · BitApps AI Intern · Builder.               │
+│   SRM IST Trichy · CSE · 2027 · BitApps AI Intern · Builder.                 │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
