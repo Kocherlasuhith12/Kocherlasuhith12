@@ -28,22 +28,6 @@
 
 ---
 
-<br/>
-
-## ▎Who I am
-
-I'm **KKS Suhith Babu** — a CS undergrad at SRM IST Trichy who spends more time in terminals than classrooms.
-
-My focus is **AI Engineering + Backend Systems** — building production-grade pipelines, deploying real models, and solving problems that have weight behind them. Not tutorials. Not toy projects. Systems.
-
-Right now I'm an **AI Engineering Intern at BitApps** (Apr 2026 →), working on real-world ML applications. My flagship build is **ClinicalMind** — an AI diagnostic co-pilot for rural healthcare workers in India, multilingual (Tamil · Hindi · English), offline-first, voice-powered.
-
-I competed in the **Critical Mass AI Bot Challenge @ IIT Patna** and went **30/30** — built a minimax bot with iterative deepening alpha-beta pruning for Chain Reaction on a 12×8 board. Clean sweep.
-
-<br/>
-
----
-
 ## ▎What I build with
 
 ```python
