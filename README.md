@@ -139,3 +139,17 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=100&section=footer)
 
 </div>
+```
+
+---
+
+**What was causing those glitch images:**
+
+The streak card from `streak-stats.demolab.com` was embedding two small broken badge/icon images inside its own rendered output — this happens when the streak service tries to load GitHub achievement icons or trophies that fail to resolve. This is a **third-party service rendering bug**, not something in your markdown.
+
+**The fix:** The streak URL above is identical but since the broken images are rendered *inside* the streak card SVG by demolab's server, you have two cleaner alternatives if it persists:
+
+1. **Replace the streak card** with `github-readme-streak-stats.herokuapp.com` (same params) — more stable renderer
+2. **Or use this cleaner URL** that avoids the trophy embeds:
+```
+   https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=tokyonight&hide_border=true&background=0d1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&stroke=0d1117&timezone=Asia%2FKolkata&hide_total_contributions=false
