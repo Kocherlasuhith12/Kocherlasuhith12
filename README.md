@@ -44,66 +44,86 @@
 
 ### ⬡ Agentic AI & LLMs
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=C0392B)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logoColor=C0392B)
-![MCP Integration](https://img.shields.io/badge/MCP%20Integration-0d1117?style=for-the-badge&logoColor=aaaaaa)
-![IBM GenAI](https://img.shields.io/badge/IBM%20GenAI-0d1117?style=for-the-badge&logo=ibm&logoColor=006699)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=openai" height="40" alt="OpenAI API" title="OpenAI API" />
+</p>
+<p>
+  <img width="100%" src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2" />
+  <img width="100%" src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img width="100%" src="https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=C0392B" />
+  <img width="100%" src="https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logoColor=C0392B" />
+  <img width="100%" src="https://img.shields.io/badge/MCP%20Integration-0d1117?style=for-the-badge&logoColor=aaaaaa" />
+  <img width="100%" src="https://img.shields.io/badge/IBM%20GenAI-0d1117?style=for-the-badge&logo=ibm&logoColor=006699" />
+</p>
 
 </td>
 <td valign="top" width="25%">
 
 ### ⬡ Backend & Infrastructure
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A)
-![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium" title="Selenium" />
+</p>
+<p>
+  <img width="100%" src="https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A" />
+  <img width="100%" src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
+</p>
 
 </td>
 <td valign="top" width="25%">
 
 ### ⬡ AI / ML & Computer Vision
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logoColor=C0392B)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logoColor=00FFAA)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=0081CB)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logoColor=0194E2)
-![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logoColor=00C4CC)
-![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=keras" height="40" alt="Keras" title="Keras" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn" title="Scikit-learn" />
+</p>
+<p>
+  <img width="100%" src="https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logoColor=C0392B" />
+  <img width="100%" src="https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logoColor=00FFAA" />
+  <img width="100%" src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=0081CB" />
+  <img width="100%" src="https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" />
+  <img width="100%" src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logoColor=0194E2" />
+  <img width="100%" src="https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logoColor=00C4CC" />
+  <img width="100%" src="https://img.shields.io/badge/Whisper-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff" />
+</p>
 
 </td>
 <td valign="top" width="25%">
 
 ### ⬡ Languages & Data
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logoColor=11557C)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL" title="SQL" />
+</p>
+<p>
+  <img width="100%" src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img width="100%" src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img width="100%" src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img width="100%" src="https://img.shields.io/badge/Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
+  <img width="100%" src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logoColor=11557C" />
+</p>
 
 </td>
 </tr>
@@ -111,11 +131,11 @@
 
 <div align="center">
 
-![TF-IDF](https://img.shields.io/badge/TF--IDF-0d1117?style=flat-square&logoColor=aaaaaa)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0d1117?style=flat-square&logoColor=aaaaaa)
-![Data Annotation](https://img.shields.io/badge/Data%20Annotation-0d1117?style=flat-square&logoColor=aaaaaa)
-![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-0d1117?style=flat-square&logoColor=aaaaaa)
-![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-0d1117?style=flat-square&logoColor=aaaaaa)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-0d1117?style=for-the-badge&logoColor=aaaaaa)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0d1117?style=for-the-badge&logoColor=aaaaaa)
+![Data Annotation](https://img.shields.io/badge/Data%20Annotation-0d1117?style=for-the-badge&logoColor=aaaaaa)
+![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-0d1117?style=for-the-badge&logoColor=aaaaaa)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-0d1117?style=for-the-badge&logoColor=aaaaaa)
 
 </div>
 
