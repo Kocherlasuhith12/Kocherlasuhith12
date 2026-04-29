@@ -6,7 +6,7 @@
  
 <br/>
 
-<div align="center">
+<div align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;Building+ClinicalMind+%E2%80%94+AI+for+rural+healthcare+in+India.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
 
