@@ -8,7 +8,7 @@
 
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;Building+ClinicalMind+%E2%80%94+AI+for+rural+healthcare+in+India.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -46,12 +46,13 @@
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=C0392B)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=C0392B)
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logoColor=C0392B)
 ![MCP Integration](https://img.shields.io/badge/MCP%20Integration-0d1117?style=for-the-badge&logoColor=aaaaaa)
-![IBM GenAI](https://img.shields.io/badge/IBM%20GenAI-0d1117?style=for-the-badge&logo=ibm&logoColor=006699)
 
 </td>
 <td valign="top" width="25%">
@@ -61,13 +62,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Temporal](https://img.shields.io/badge/Temporal-0d1117?style=for-the-badge&logo=temporal&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=635BFF)
 ![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
 
 </td>
 <td valign="top" width="25%">
@@ -92,17 +93,16 @@
 ### ⬡ Languages & Data
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logoColor=11557C)
 
 </td>
@@ -111,6 +111,7 @@
 
 <div align="center">
 
+![Row-Level Security](https://img.shields.io/badge/Postgres%20RLS-0d1117?style=flat-square&logoColor=aaaaaa)
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-0d1117?style=flat-square&logoColor=aaaaaa)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0d1117?style=flat-square&logoColor=aaaaaa)
 ![Data Annotation](https://img.shields.io/badge/Data%20Annotation-0d1117?style=flat-square&logoColor=aaaaaa)
@@ -125,33 +126,53 @@
 
 <br/>
 
-## ▎Projects that matter
+## ▎Flagship Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 ClinicalMind *(Flagship)*
-AI diagnostic co-pilot built for rural healthcare workers across India. Handles voice input via Whisper, image analysis via GPT-4o Vision, and RAG-powered knowledge retrieval with Pinecone. Multilingual — Tamil, Hindi, English. Offline-first PWA. Built for the last mile, not the demo.
+### 🛡️ ResolveHub
+Multi-tenant enterprise ITSM platform unifying service desk, incident, problem, change, asset, and knowledge management under one roof — with AI-powered triage and real-time SLA enforcement. Tenant isolation enforced at the database layer via Postgres Row-Level Security; SLA timers and escalations run on Temporal workflows; billing runs on Stripe. Live in production across three deployed services.
 
-`FastAPI` `GPT-4o Vision` `Whisper` `LlamaIndex` `Pinecone` `React PWA`
+**[Live App](https://resolvehub-frontend-suhith.onrender.com)** · **[API Docs](https://resolvehub-api-suhith.onrender.com/docs)** · **[Source](https://github.com/Kocherlasuhith12/resolve-hub)**
 
----
-
-### 🔥 NeuralForge Bot *(Critical Mass @ IIT Patna)*
-Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deepening Alpha-Beta Minimax with custom heuristics. Result: **30/30 wins**. Zero losses. Zero draws. Pure dominance.
-
-`Python` `IDAB Minimax` `Alpha-Beta Pruning` `Game Theory`
+`FastAPI` `Async SQLAlchemy 2` `PostgreSQL RLS` `Temporal` `React 18` `TypeScript` `Google Gemini` `Stripe`
 
 </td>
 <td width="50%" valign="top">
 
+### 🏥 ClinicalMind
+AI diagnostic co-pilot for rural healthcare workers across India — voice input via Whisper, image analysis via GPT-4o Vision, and RAG-powered retrieval over a Pinecone knowledge base. Multilingual (Tamil, Hindi, English), offline-first PWA. Currently being rebuilt from a flat RAG pipeline into a production-grade **LangGraph multi-agent system** — dedicated agents for triage, self-correcting retrieval, diagnosis, critique, and an emergency fast-path.
+
+`FastAPI` `LangGraph` `GPT-4o Vision` `Whisper` `LlamaIndex` `Pinecone` `Celery` `React PWA`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ▎More Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 NeuralForge Bot *(Critical Mass @ IIT Patna)*
+Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deepening Alpha-Beta Minimax with custom heuristics. Result: **30/30 wins**. Zero losses. Zero draws.
+
+`Python` `IDAB Minimax` `Alpha-Beta Pruning` `Game Theory`
+
+---
+
 ### 📊 Smart Risk AI
-ML-powered project risk prediction platform. Random Forest classifier wrapped in a FastAPI backend, deployed with JWT auth on Render + Vercel with a full React dashboard. Production stack, not prototype.
+ML-powered project risk prediction platform. Random Forest classifier wrapped in a FastAPI backend, deployed with JWT auth on Render + Vercel with a full React dashboard.
 
 `Python` `XGBoost` `FastAPI` `React` `JWT` `Render`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🚦 TrafficIQ
 Real-time adaptive traffic management using live vehicle detection. YOLOv8m powering signal control decisions, paired with a live data visualization dashboard.
