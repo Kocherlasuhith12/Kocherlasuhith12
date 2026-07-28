@@ -20,13 +20,7 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│     I don't build demos. I build systems people actually depend on.     │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+> **I don't build demos. I build systems people actually depend on.**
 
 </div>
 
@@ -48,6 +42,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=C0392B)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
+![Groq](https://img.shields.io/badge/Groq-0d1117?style=for-the-badge&logoColor=F55036)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=C0392B)
@@ -62,11 +57,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A)
 ![Temporal](https://img.shields.io/badge/Temporal-0d1117?style=for-the-badge&logo=temporal&logoColor=ffffff)
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=2EAD33)
 
@@ -95,6 +92,7 @@
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -133,7 +131,7 @@
 <td width="50%" valign="top">
 
 ### 🛡️ ResolveHub
-Multi-tenant enterprise ITSM platform unifying service desk, incident, problem, change, asset, and knowledge management under one roof — with AI-powered triage and real-time SLA enforcement. Tenant isolation enforced at the database layer via Postgres Row-Level Security; SLA timers and escalations run on Temporal workflows; billing runs on Stripe. Live in production across three deployed services.
+Multi-tenant enterprise ITSM platform unifying service desk, incident, problem, change, asset, and knowledge management under one roof — with AI-powered triage and real-time SLA enforcement. Tenant isolation enforced at the database layer via Postgres Row-Level Security; SLA timers and escalations run on Temporal workflows; billing runs on Stripe. Live in production.
 
 **[Live App](https://resolvehub-frontend-suhith.onrender.com)** · **[API Docs](https://resolvehub-api-suhith.onrender.com/docs)** · **[Source](https://github.com/Kocherlasuhith12/resolve-hub)**
 
@@ -143,9 +141,9 @@ Multi-tenant enterprise ITSM platform unifying service desk, incident, problem, 
 <td width="50%" valign="top">
 
 ### 🏥 ClinicalMind
-AI diagnostic co-pilot for rural healthcare workers across India — voice input via Whisper, image analysis via GPT-4o Vision, and RAG-powered retrieval over a Pinecone knowledge base. Multilingual (Tamil, Hindi, English), offline-first PWA. Currently being rebuilt from a flat RAG pipeline into a production-grade **LangGraph multi-agent system** — dedicated agents for triage, self-correcting retrieval, diagnosis, critique, and an emergency fast-path.
+AI diagnostic co-pilot for rural healthcare workers across India — voice input via Whisper, image analysis via GPT-4o Vision, and RAG-powered retrieval over a Pinecone knowledge base. Multilingual (Tamil, Hindi, English). Currently being rebuilt from a flat RAG pipeline into a production-grade **LangGraph multi-agent system** — dedicated agents for triage, self-correcting retrieval, diagnosis, critique, and an emergency fast-path, running on a Dockerized FastAPI + Celery + Redis + PostgreSQL backend with a React/Vite frontend.
 
-`FastAPI` `LangGraph` `GPT-4o Vision` `Whisper` `LlamaIndex` `Pinecone` `Celery` `React PWA`
+`FastAPI` `LangGraph` `Celery` `Redis` `PostgreSQL` `GPT-4o Vision` `Whisper` `LlamaIndex` `Pinecone` `React / Vite`
 
 </td>
 </tr>
@@ -171,6 +169,13 @@ ML-powered project risk prediction platform. Random Forest classifier wrapped in
 
 `Python` `XGBoost` `FastAPI` `React` `JWT` `Render`
 
+---
+
+### ⚙️ Workflow Automation Stack
+Local Docker-based automation stack built during the BitApps internship — n8n workflows triggered and orchestrated programmatically through a FastAPI backend, with Temporal and Restate handling durable execution.
+
+`n8n` `FastAPI` `Temporal` `Restate` `Docker`
+
 </td>
 <td width="50%" valign="top">
 
@@ -185,6 +190,13 @@ Real-time adaptive traffic management using live vehicle detection. YOLOv8m powe
 Production-grade fine-tuning infrastructure with full experiment tracking. Built for reproducibility, scale, and MLflow-integrated run management.
 
 `PyTorch` `MLflow` `Docker` `HuggingFace`
+
+---
+
+### 🌱 GreenGive
+Full-stack application built for a technical assessment — Next.js frontend with Supabase as the backend and Stripe handling payments.
+
+`Next.js` `Supabase` `Stripe` `TypeScript`
 
 </td>
 </tr>
@@ -260,16 +272,9 @@ Production-grade fine-tuning infrastructure with full experiment tracking. Built
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   Open to: AI engineering roles · research collabs · projects worth          │
-│            building · problems nobody's solved cleanly yet.                  │
-│                                                                              │
-│   SRM IST Trichy · CSE · 2027 · BitApps AI Intern · Builder.                 │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+> **Open to:** AI engineering roles · research collabs · projects worth building · problems nobody's solved cleanly yet.
+>
+> SRM IST Trichy · CSE · 2027 · BitApps AI Intern · Builder.
 
 </div>
 
