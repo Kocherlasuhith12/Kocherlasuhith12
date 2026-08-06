@@ -157,17 +157,28 @@ AI diagnostic co-pilot for rural healthcare workers across India — voice input
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 NeuralForge Bot *(Critical Mass @ IIT Patna)*
-Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deepening Alpha-Beta Minimax with custom heuristics. Result: **30/30 wins**. Zero losses. Zero draws.
+### 🚦 TrafficIQ
+Real-time adaptive AI traffic management platform — YOLOv11-based live vehicle/pedestrian detection driving smart signal optimization and emergency vehicle prioritization, with a multi-junction live control dashboard, GRU-based traffic forecasting, incident detection (collisions, pedestrians, breakdowns), exportable analytics (PDF/CSV/Excel), and a voice-controlled AI assistant. Deployed and live.
 
-`Python` `IDAB Minimax` `Alpha-Beta Pruning` `Game Theory`
+**[Live App](https://trafficiq-frontend.onrender.com)** · **[Source](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System)**
+
+`YOLOv11` `FastAPI` `React` `Redis` `GRU Forecasting` `OpenCV` `Python`
 
 ---
 
 ### 📊 Smart Risk AI
-ML-powered project risk prediction platform. Random Forest classifier wrapped in a FastAPI backend, deployed with JWT auth on Render + Vercel with a full React dashboard.
+ML-powered project risk prediction platform. Random Forest classifier wrapped in a FastAPI backend, deployed with JWT auth with a full React dashboard. Deployed and live.
 
-`Python` `XGBoost` `FastAPI` `React` `JWT` `Render`
+**[Live App](https://smart-risk-ai2-git-main-kocherlasravan-gmailcoms-projects.vercel.app)**
+
+`Python` `XGBoost` `FastAPI` `React` `JWT` `Vercel`
+
+---
+
+### 🔥 NeuralForge Bot *(Critical Mass @ IIT Patna)*
+Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deepening Alpha-Beta Minimax with custom heuristics. Result: **30/30 wins**. Zero losses. Zero draws.
+
+`Python` `IDAB Minimax` `Alpha-Beta Pruning` `Game Theory`
 
 ---
 
@@ -178,13 +189,6 @@ Local Docker-based automation stack built during the BitApps internship — n8n 
 
 </td>
 <td width="50%" valign="top">
-
-### 🚦 TrafficIQ
-Real-time adaptive traffic management using live vehicle detection. YOLOv8m powering signal control decisions, paired with a live data visualization dashboard.
-
-`YOLOv8m` `FastAPI` `React` `OpenCV` `Python`
-
----
 
 ### 🧠 Scalable LLM Fine-Tuning Pipeline
 Production-grade fine-tuning infrastructure with full experiment tracking. Built for reproducibility, scale, and MLflow-integrated run management.
