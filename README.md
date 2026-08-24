@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Jun+2026;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -212,6 +212,27 @@ Full-stack application built for a technical assessment — Next.js frontend wit
 
 <br/>
 
+## ▎Certifications & Training
+
+<div align="center">
+
+![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-Getting%20Started%20with%20AI-0d1117?style=for-the-badge&logo=ibm&logoColor=006699)
+![Coursera](https://img.shields.io/badge/Coursera-PyTorch%20Image%20Segmentation-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
+![Coursera](https://img.shields.io/badge/Univ.%20of%20London-Algorithms%20%26%20Flowcharts-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
+![MongoDB](https://img.shields.io/badge/MongoDB-12%20Micro--Certifications-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Micro--Certification-0d1117?style=for-the-badge&logo=servicenow&logoColor=62D84E)
+![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)
+![Six Sigma](https://img.shields.io/badge/Anexas%20Europe-Lean%20Six%20Sigma%20Yellow%20Belt-0d1117?style=for-the-badge&logoColor=aaaaaa)
+![IIT Patna](https://img.shields.io/badge/IIT%20Patna-Critical%20Mass%20AI%20Bot%20Challenge-0d1117?style=for-the-badge&logoColor=C0392B)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## ▎GitHub
 
 <div align="center">
@@ -224,9 +245,11 @@ Full-stack application built for a technical assessment — Next.js frontend wit
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution+Timeline&bg_color=0d1117&color=C0392B&line=C0392B&point=ffffff&area=true&hide_border=true&area_color=1a0505" width="96%" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=C0392B&text_color=cccccc&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="38%" />
+&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=Kocherlasuhith12&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="56%" />
 
 </div>
 
@@ -278,7 +301,7 @@ Full-stack application built for a technical assessment — Next.js frontend wit
 
 > **Open to:** AI engineering roles · research collabs · projects worth building · problems nobody's solved cleanly yet.
 >
-> SRM IST Trichy · CSE · 2027 · BitApps AI Intern · Builder.
+> SRM IST Trichy · CSE · 2027 · Builder.
 
 </div>
 
