@@ -1,6 +1,6 @@
 <div align="center">  
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0d0d1a,60:130a20,100:0a0508&height=220&section=header&text=KKS%20Suhith%20Babu&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20Backend%20Architect%20%E2%80%94%20Builder%20of%20things%20that%20matter&descSize=13&descAlignY=60&descColor=777777&animation=fadeIn) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0d0d1a,60:130a20,100:0a0508&height=220&section=header&text=KKS%20Suhith%20Babu&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%2B%20AI%20Engineer%20%E2%80%94%20Backend%20Architect%20%E2%80%94%20Builder%20of%20things%20that%20matter&descSize=13&descAlignY=60&descColor=777777&animation=fadeIn) 
     
 </div>  
   
@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=Currently+building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-> **I don't build demos. I build systems people actually depend on.**
+> **I don't build demos. I build full-stack systems people actually depend on — powered by AI where it earns its place.**
 
 </div>
 
@@ -299,9 +299,9 @@ Full-stack application built for a technical assessment — Next.js frontend wit
 
 <div align="center">
 
-> **Open to:** AI engineering roles · research collabs · projects worth building · problems nobody's solved cleanly yet.
+> **Open to:** Full Stack + AI engineering roles · research collabs · projects worth building · problems nobody's solved cleanly yet.
 >
-> SRM IST Trichy · CSE · 2027 · AI Engineer Intern @ BitApps · Builder.
+> SRM IST Trichy · CSE · 2027 · Full Stack + AI Engineer Intern @ BitApps · Builder.
 
 </div>
 
