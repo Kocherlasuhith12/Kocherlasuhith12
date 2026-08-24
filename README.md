@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Jun+2026;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -301,7 +301,7 @@ Full-stack application built for a technical assessment — Next.js frontend wit
 
 > **Open to:** AI engineering roles · research collabs · projects worth building · problems nobody's solved cleanly yet.
 >
-> SRM IST Trichy · CSE · 2027 · Builder.
+> SRM IST Trichy · CSE · 2027 · AI Engineer Intern @ BitApps · Builder.
 
 </div>
 
