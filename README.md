@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=Currently+building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;NeuralForge+Bot+%E2%80%94+30%2F30+wins+%40+IIT+Patna+Critical+Mass+Challenge.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=Currently+building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Building+TradeIQ+%E2%80%94+AI-native+B2B+commerce+platform.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -46,7 +46,9 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=C0392B)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logoColor=00C4CC)
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logoColor=C0392B)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0d1117?style=for-the-badge&logoColor=C0392B)
 ![MCP Integration](https://img.shields.io/badge/MCP%20Integration-0d1117?style=for-the-badge&logoColor=aaaaaa)
 
 </td>
@@ -76,12 +78,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logoColor=C0392B)
 ![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logoColor=00FFAA)
+![YOLO](https://img.shields.io/badge/YOLO-0d1117?style=for-the-badge&logoColor=00FFAA)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=0081CB)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
 ![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logoColor=0194E2)
-![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logoColor=00C4CC)
 ![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
 
 </td>
@@ -101,22 +102,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logoColor=11557C)
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-![Row-Level Security](https://img.shields.io/badge/Postgres%20RLS-0d1117?style=flat-square&logoColor=aaaaaa)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-0d1117?style=flat-square&logoColor=aaaaaa)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0d1117?style=flat-square&logoColor=aaaaaa)
-![Data Annotation](https://img.shields.io/badge/Data%20Annotation-0d1117?style=flat-square&logoColor=aaaaaa)
-![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-0d1117?style=flat-square&logoColor=aaaaaa)
-![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-0d1117?style=flat-square&logoColor=aaaaaa)
-
-</div>
 
 <br/>
 
@@ -128,22 +117,38 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🛡️ ResolveHub
-Multi-tenant enterprise ITSM platform unifying service desk, incident, problem, change, asset, and knowledge management under one roof — with AI-powered triage and real-time SLA enforcement. Tenant isolation enforced at the database layer via Postgres Row-Level Security; SLA timers and escalations run on Temporal workflows; billing runs on Stripe. Live in production.
+Multi-tenant enterprise ITSM platform unifying service desk, incident, problem, change, asset, and knowledge management — with AI-powered triage and real-time SLA enforcement. Tenant isolation enforced via Postgres Row-Level Security; SLA timers on Temporal workflows; billing on Stripe.
+
+**Status: Live in production**
 
 **[Live App](https://resolvehub-frontend-suhith.onrender.com)** · **[API Docs](https://resolvehub-api-suhith.onrender.com/docs)** · **[Source](https://github.com/Kocherlasuhith12/resolve-hub)**
 
 `FastAPI` `Async SQLAlchemy 2` `PostgreSQL RLS` `Temporal` `React 18` `TypeScript` `Google Gemini` `Stripe`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏥 ClinicalMind
-AI diagnostic co-pilot for rural healthcare workers across India — voice input via Whisper, image analysis via GPT-4o Vision, and RAG-powered retrieval over a Pinecone knowledge base. Multilingual (Tamil, Hindi, English). Currently being rebuilt from a flat RAG pipeline into a production-grade **LangGraph multi-agent system** — dedicated agents for triage, self-correcting retrieval, diagnosis, critique, and an emergency fast-path, running on a Dockerized FastAPI + Celery + Redis + PostgreSQL backend with a React/Vite frontend.
+AI diagnostic co-pilot for rural healthcare workers across India — voice input via Whisper, image analysis via GPT-4o Vision, RAG retrieval over a Pinecone knowledge base. Multilingual (Tamil, Hindi, English). Being rebuilt from a flat RAG pipeline into a production-grade **LangGraph multi-agent system** — dedicated agents for triage, self-correcting retrieval, diagnosis, critique, and an emergency fast-path.
+
+**Status: Active rebuild — multi-agent architecture in progress**
+
+**[Source](https://github.com/Kocherlasuhith12/Clinical-mind)**
 
 `FastAPI` `LangGraph` `Celery` `Redis` `PostgreSQL` `GPT-4o Vision` `Whisper` `LlamaIndex` `Pinecone` `React / Vite`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 TradeIQ
+Intelligent B2B commerce platform combining full-stack e-commerce with AI-driven search and recommendation. Modular-monolith architecture (auth, catalog, pricing, cart/checkout, orders, vendors, RFQ, AI, notifications), hybrid search via pgvector, and a LangGraph conversational commerce agent for buyer-side product discovery.
+
+**Status: In design — architecture and roadmap finalized, build underway**
+
+`FastAPI` `Next.js 14` `LangGraph` `pgvector` `Celery` `Temporal`
 
 </td>
 </tr>
@@ -158,16 +163,20 @@ AI diagnostic co-pilot for rural healthcare workers across India — voice input
 <td width="50%" valign="top">
 
 ### 🚦 TrafficIQ
-Real-time adaptive AI traffic management platform — YOLOv11-based live vehicle/pedestrian detection driving smart signal optimization and emergency vehicle prioritization, with a multi-junction live control dashboard, GRU-based traffic forecasting, incident detection (collisions, pedestrians, breakdowns), exportable analytics (PDF/CSV/Excel), and a voice-controlled AI assistant. Deployed and live.
+Real-time adaptive AI traffic management platform — YOLO-based live vehicle/pedestrian detection driving smart signal optimization and emergency vehicle prioritization, with a multi-junction live dashboard, GRU-based traffic forecasting, incident detection, and exportable analytics.
+
+**Status: Deployed and live**
 
 **[Live App](https://trafficiq-frontend.onrender.com)** · **[Source](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System)**
 
-`YOLOv11` `FastAPI` `React` `Redis` `GRU Forecasting` `OpenCV` `Python`
+`YOLO` `FastAPI` `React` `Redis` `GRU Forecasting` `OpenCV`
 
 ---
 
 ### 📊 Smart Risk AI
-ML-powered project risk prediction platform. Random Forest classifier wrapped in a FastAPI backend, deployed with JWT auth with a full React dashboard. Deployed and live.
+ML-powered project risk prediction platform. Random Forest classifier in a FastAPI backend, JWT auth, full React dashboard.
+
+**Status: Deployed and live**
 
 **[Live App](https://smart-risk-ai2-git-main-kocherlasravan-gmailcoms-projects.vercel.app)**
 
@@ -175,15 +184,8 @@ ML-powered project risk prediction platform. Random Forest classifier wrapped in
 
 ---
 
-### 🔥 NeuralForge Bot *(Critical Mass @ IIT Patna)*
-Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deepening Alpha-Beta Minimax with custom heuristics. Result: **30/30 wins**. Zero losses. Zero draws.
-
-`Python` `IDAB Minimax` `Alpha-Beta Pruning` `Game Theory`
-
----
-
 ### ⚙️ Workflow Automation Stack
-Local Docker-based automation stack built during the BitApps internship — n8n workflows triggered and orchestrated programmatically through a FastAPI backend, with Temporal and Restate handling durable execution.
+Local Docker-based automation stack from the BitApps internship — n8n workflows triggered and orchestrated programmatically through a FastAPI backend, with Temporal and Restate handling durable execution.
 
 `n8n` `FastAPI` `Temporal` `Restate` `Docker`
 
@@ -191,16 +193,23 @@ Local Docker-based automation stack built during the BitApps internship — n8n 
 <td width="50%" valign="top">
 
 ### 🧠 Scalable LLM Fine-Tuning Pipeline
-Production-grade fine-tuning infrastructure with full experiment tracking. Built for reproducibility, scale, and MLflow-integrated run management.
+Production-grade fine-tuning infrastructure for parameter-efficient LLM tuning (LoRA/QLoRA) with full MLflow experiment tracking, model versioning, and reproducible Docker environments.
 
-`PyTorch` `MLflow` `Docker` `HuggingFace`
+`PyTorch` `HuggingFace` `LoRA` `QLoRA` `MLflow` `Docker`
 
 ---
 
 ### 🌱 GreenGive
-Full-stack application built for a technical assessment — Next.js frontend with Supabase as the backend and Stripe handling payments.
+Full-stack sustainability-focused web app built for a technical assessment — Next.js frontend, Supabase backend, Stripe payments.
 
 `Next.js` `Supabase` `Stripe` `TypeScript`
+
+---
+
+### 🔥 NeuralForge Bot *(Critical Mass @ IIT Patna)*
+Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deepening Alpha-Beta Minimax with custom heuristics. Result: **30/30 wins**, zero losses.
+
+`Python` `IDAB Minimax` `Alpha-Beta Pruning` `Game Theory`
 
 </td>
 </tr>
@@ -219,11 +228,11 @@ Full-stack application built for a technical assessment — Next.js frontend wit
 ![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-Getting%20Started%20with%20AI-0d1117?style=for-the-badge&logo=ibm&logoColor=006699)
 ![Coursera](https://img.shields.io/badge/Coursera-PyTorch%20Image%20Segmentation-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
 ![Coursera](https://img.shields.io/badge/Univ.%20of%20London-Algorithms%20%26%20Flowcharts-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
+![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)
+![IIT Patna](https://img.shields.io/badge/IIT%20Patna-Critical%20Mass%20AI%20Bot%20Challenge-0d1117?style=for-the-badge&logoColor=C0392B)
 ![MongoDB](https://img.shields.io/badge/MongoDB-12%20Micro--Certifications-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Micro--Certification-0d1117?style=for-the-badge&logo=servicenow&logoColor=62D84E)
-![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)
 ![Six Sigma](https://img.shields.io/badge/Anexas%20Europe-Lean%20Six%20Sigma%20Yellow%20Belt-0d1117?style=for-the-badge&logoColor=aaaaaa)
-![IIT Patna](https://img.shields.io/badge/IIT%20Patna-Critical%20Mass%20AI%20Bot%20Challenge-0d1117?style=for-the-badge&logoColor=C0392B)
 
 </div>
 
