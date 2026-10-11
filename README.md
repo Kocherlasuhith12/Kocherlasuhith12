@@ -34,10 +34,10 @@
 
 | Area | Stack |
 |:--|:--|
-| **🤖 Agentic AI & LLMs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square) ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-C0392B?style=flat-square) ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-C0392B?style=flat-square) ![MCP Integration](https://img.shields.io/badge/MCP%20Integration-555555?style=flat-square) |
-| **⚙️ Backend & Infrastructure** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) |
-| **🧠 AI / ML & Computer Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00A19B?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0081CB?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square) |
-| **💻 Languages & Data** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![C](https://img.shields.io/badge/C-555F8C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **🤖 Agentic AI & LLMs** | <img src="assets/skills-ai.svg" alt="Agentic AI and LLM skills" width="700" /> |
+| **⚙️ Backend & Infrastructure** | <img src="assets/skills-backend.svg" alt="Backend and infrastructure skills" width="700" /> |
+| **🧠 AI / ML & Computer Vision** | <img src="assets/skills-ml.svg" alt="AI/ML and computer vision skills" width="700" /> |
+| **💻 Languages & Data** | <img src="assets/skills-lang.svg" alt="Languages and data skills" width="700" /> |
 
 <br/>
 
@@ -159,14 +159,7 @@ Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deep
 
 <div align="center">
 
-![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-Getting%20Started%20with%20AI-0d1117?style=for-the-badge&logoColor=006699)
-![Coursera](https://img.shields.io/badge/Coursera-PyTorch%20Image%20Segmentation-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
-![University of London](https://img.shields.io/badge/Univ.%20of%20London-Algorithms%20%26%20Flowcharts-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
-![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)
-![IIT Patna](https://img.shields.io/badge/IIT%20Patna-Critical%20Mass%20AI%20Bot%20Challenge-0d1117?style=for-the-badge&logoColor=C0392B)
-![MongoDB](https://img.shields.io/badge/MongoDB-12%20Micro--Certifications-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Micro--Certification-0d1117?style=for-the-badge&logo=servicenow&logoColor=62D84E)
-![Lean Six Sigma](https://img.shields.io/badge/Anexas%20Europe-Lean%20Six%20Sigma%20Yellow%20Belt-0d1117?style=for-the-badge&logoColor=aaaaaa)
+<img src="assets/certifications.svg" alt="Certifications and training" width="760" />
 
 </div>
 
