@@ -1,14 +1,14 @@
-<div align="center">  
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0d0d1a,60:130a20,100:0a0508&height=220&section=header&text=KKS%20Suhith%20Babu&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%2B%20AI%20Engineer%20%E2%80%94%20Backend%20Architect%20%E2%80%94%20Builder%20of%20things%20that%20matter&descSize=13&descAlignY=60&descColor=777777&animation=fadeIn) 
-     
-</div>   
-   
+<div align="center">
+
+![KKS Suhith Babu — Full Stack + AI Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0d0d1a,60:130a20,100:0a0508&height=220&section=header&text=KKS%20Suhith%20Babu&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%2B%20AI%20Engineer%20%E2%80%94%20Backend%20Architect%20%E2%80%94%20Builder%20of%20things%20that%20matter&descSize=13&descAlignY=60&descColor=777777&animation=fadeIn)
+
+</div>
+
 <br/>
 
-<div align="center">  
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=Currently+building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Building+TradeIQ+%E2%80%94+AI-native+B2B+commerce+platform.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=Currently+building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Sep+2026;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Building+TradeIQ+%E2%80%94+AI-native+B2B+commerce+platform.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
@@ -39,7 +39,7 @@
 ### ⬡ Agentic AI & LLMs
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=C0392B)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
 ![Groq](https://img.shields.io/badge/Groq-0d1117?style=for-the-badge&logoColor=F55036)
@@ -63,7 +63,7 @@
 ![Temporal](https://img.shields.io/badge/Temporal-0d1117?style=for-the-badge&logo=temporal&logoColor=ffffff)
 ![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logoColor=FF9900)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=635BFF)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -90,7 +90,6 @@
 
 ### ⬡ Languages & Data
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
@@ -146,7 +145,9 @@ AI diagnostic co-pilot for rural healthcare workers across India — voice input
 ### 🛒 TradeIQ
 Intelligent B2B commerce platform combining full-stack e-commerce with AI-driven search and recommendation. Modular-monolith architecture (auth, catalog, pricing, cart/checkout, orders, vendors, RFQ, AI, notifications), hybrid search via pgvector, and a LangGraph conversational commerce agent for buyer-side product discovery.
 
-**Status: In design — architecture and roadmap finalized, build underway**
+**Status: In active development — core modules in progress**
+
+**[Source](https://github.com/Kocherlasuhith12/TradeIQ-Intelligent-B2B-Commerce-Platform)**
 
 `FastAPI` `Next.js 14` `LangGraph` `pgvector` `Celery` `Temporal`
 
@@ -178,7 +179,7 @@ ML-powered project risk prediction platform. Random Forest classifier in a FastA
 
 **Status: Deployed and live**
 
-**[Live App](https://smart-risk-ai2-git-main-kocherlasravan-gmailcoms-projects.vercel.app)**
+**[Live App](https://smart-risk-ai2.vercel.app)**
 
 `Python` `XGBoost` `FastAPI` `React` `JWT` `Vercel`
 
@@ -225,14 +226,14 @@ Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deep
 
 <div align="center">
 
-![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-Getting%20Started%20with%20AI-0d1117?style=for-the-badge&logo=ibm&logoColor=006699)
+![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-Getting%20Started%20with%20AI-0d1117?style=for-the-badge&logoColor=006699)
 ![Coursera](https://img.shields.io/badge/Coursera-PyTorch%20Image%20Segmentation-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
-![Coursera](https://img.shields.io/badge/Univ.%20of%20London-Algorithms%20%26%20Flowcharts-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
+![University of London](https://img.shields.io/badge/Univ.%20of%20London-Algorithms%20%26%20Flowcharts-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)
 ![IIT Patna](https://img.shields.io/badge/IIT%20Patna-Critical%20Mass%20AI%20Bot%20Challenge-0d1117?style=for-the-badge&logoColor=C0392B)
 ![MongoDB](https://img.shields.io/badge/MongoDB-12%20Micro--Certifications-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Micro--Certification-0d1117?style=for-the-badge&logo=servicenow&logoColor=62D84E)
-![Six Sigma](https://img.shields.io/badge/Anexas%20Europe-Lean%20Six%20Sigma%20Yellow%20Belt-0d1117?style=for-the-badge&logoColor=aaaaaa)
+![Lean Six Sigma](https://img.shields.io/badge/Anexas%20Europe-Lean%20Six%20Sigma%20Yellow%20Belt-0d1117?style=for-the-badge&logoColor=aaaaaa)
 
 </div>
 
@@ -246,19 +247,19 @@ Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deep
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=transparent&hide_border=true&background=00000000&ring=C0392B&fire=C0392B&currStreakLabel=ffffff&sideLabels=666666&dates=444444&sideNums=eeeeee&stroke=111111&timezone=Asia%2FKolkata" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=dark&hide_border=true&background=0d1117&ring=C0392B&fire=C0392B&currStreakLabel=ffffff&sideLabels=999999&dates=777777&sideNums=eeeeee&stroke=222222&border_radius=6&timezone=Asia%2FKolkata" width="49%" alt="GitHub streak stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=C0392B&icon_color=C0392B&text_color=cccccc&include_all_commits=true&count_private=true&rank_icon=github&hide=stars&cache_seconds=86400" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C0392B&icon_color=C0392B&text_color=cccccc&include_all_commits=true&rank_icon=github&hide=stars&border_radius=6&cache_seconds=86400" width="47%" alt="GitHub stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution+Timeline&bg_color=0d1117&color=C0392B&line=C0392B&point=ffffff&area=true&hide_border=true&area_color=1a0505" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution+Timeline&bg_color=0d1117&color=C0392B&line=C0392B&point=ffffff&area=true&hide_border=true&area_color=1a0505" width="96%" alt="Contribution timeline" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=C0392B&text_color=cccccc&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&hide_border=true&bg_color=0d1117&title_color=C0392B&text_color=cccccc&langs_count=6&hide=javascript,html,css&border_radius=6&cache_seconds=86400" width="38%" alt="Top languages" />
 &nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=Kocherlasuhith12&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="56%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kocherlasuhith12&theme=darkhub&row=2&column=3&margin-w=8&margin-h=8" width="56%" alt="GitHub trophies" />
 
 </div>
 
@@ -273,14 +274,12 @@ Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deep
 <div align="center">
 
 <a href="https://leetcode.com/u/kocherlasravan12/">
-  <img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=4&bgcolor=0d1117&border_color=C0392B" height="175"/>
+  <img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=4" height="175" alt="LeetCode stats" />
 </a>
 
 <br/><br/>
 
 ![GitHub Followers](https://img.shields.io/github/followers/Kocherlasuhith12?label=GitHub%20Followers&style=for-the-badge&color=C0392B&labelColor=111111&logo=github&logoColor=white)
-&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/Kocherlasuhith12?label=Total%20Stars&style=for-the-badge&color=C0392B&labelColor=111111&logo=github&logoColor=white&affiliations=OWNER)
 
 </div>
 
@@ -300,7 +299,7 @@ Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deep
 &nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solver-111111?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=111111)](https://www.hackerrank.com/profile/kocherlasravan)
 &nbsp;
-[![Codolio](https://img.shields.io/badge/Codolio-Dev_Portfolio-111111?style=for-the-badge&logo=code&logoColor=C0392B&labelColor=111111)](https://codolio.com/profile/Sravan26)
+[![Codolio](https://img.shields.io/badge/Codolio-Dev_Portfolio-111111?style=for-the-badge&logoColor=C0392B&labelColor=111111)](https://codolio.com/profile/Sravan26)
 
 </div>
 
@@ -310,7 +309,7 @@ Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deep
 
 > **Open to:** Full Stack + AI engineering roles · research collabs · projects worth building · problems nobody's solved cleanly yet.
 >
-> SRM IST Trichy · CSE · 2027 · Full Stack + AI Engineer Intern @ BitApps · Builder.
+> SRM IST Trichy · CSE · 2027 · Full Stack + AI Engineer · Former Intern @ BitApps · Builder.
 
 </div>
 
