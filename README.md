@@ -246,23 +246,21 @@ Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deep
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=transparent&hide_border=true&background=00000000&ring=C0392B&fire=C0392B&currStreakLabel=ffffff&sideLabels=666666&dates=444444&sideNums=eeeeee&stroke=111111&timezone=Asia%2FKolkata" width="49%" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=transparent&hide_border=true&ring=C0392B&fire=C0392B&currStreakLabel=ffffff&sideLabels=666666&dates=444444&sideNums=eeeeee&stroke=111111&timezone=Asia%2FKolkata" width="49%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=C0392B&icon_color=C0392B&text_color=cccccc&include_all_commits=true&count_private=true&rank_icon=github&hide=stars&cache_seconds=86400" width="47%" />
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=transparent&hide_border=true&title_color=C0392B&icon_color=C0392B&text_color=cccccc&include_all_commits=true&rank_icon=github&hide=stars&cache_seconds=86400" width="47%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution+Timeline&bg_color=0d1117&color=C0392B&line=C0392B&point=ffffff&area=true&hide_border=true&area_color=1a0505" width="96%" />
+<img alt="Contribution timeline" src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution+Timeline&bg_color=0d1117&color=C0392B&line=C0392B&point=ffffff&area=true&hide_border=true&area_color=1a0505" width="96%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=C0392B&text_color=cccccc&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="38%" />
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&title_color=C0392B&text_color=cccccc&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="38%" />
 &nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=Kocherlasuhith12&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="56%" />
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Kocherlasuhith12&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="56%" />
 
 </div>
-
-<br/>
 
 ---
 
