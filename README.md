@@ -59,7 +59,7 @@ class Suhith:
 <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
 <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
 <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
-<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=keras" width="48" height="48" alt="Keras"/><br/><sub>Keras</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br/><sub>Linux</sub></td>
 <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
 <td align="center" width="14%"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="HuggingFace"/><br/><sub>HuggingFace</sub></td>
 <td align="center" width="14%"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/><br/><sub>Jupyter</sub></td>
@@ -229,16 +229,15 @@ Tournament-grade Chain Reaction bot on a 12×8 board using Iterative Deepening A
 <div align="center">
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=transparent&hide_border=true&ring=C0392B&fire=C0392B&currStreakLabel=ffffff&sideLabels=999999&dates=666666&sideNums=eeeeee&stroke=222222&timezone=Asia%2FKolkata" width="49%" />
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=transparent&hide_border=true&title_color=E74C3C&icon_color=C0392B&text_color=cccccc&include_all_commits=true&rank_icon=github&hide=stars&cache_seconds=86400" width="47%" />
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=transparent&hide_border=true&title_color=E74C3C&icon_color=C0392B&text_color=cccccc&rank_icon=github&hide=stars&cache_seconds=86400" width="47%" />
 
 <br/><br/>
 
-<img alt="Contribution timeline" src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution+Timeline&bg_color=0d1117&color=E74C3C&line=C0392B&point=ffffff&area=true&hide_border=true&area_color=C0392B" width="96%" />
+<img alt="Contribution calendar" src="https://ghchart.rshah.org/C0392B/Kocherlasuhith12" width="96%" />
 
 <br/><br/>
 
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&title_color=E74C3C&text_color=cccccc&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="38%" />
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Kocherlasuhith12&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="56%" />
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&title_color=E74C3C&text_color=cccccc&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="50%" />
 
 </div>
 
