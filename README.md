@@ -47,49 +47,49 @@ class Suhith:
 <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br/><sub>Express</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br/><sub>Redis</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/><br/><sub>Supabase</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/><sub>Docker</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br/><sub>AWS</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br/><sub>Redis</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/><br/><sub>Supabase</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/><sub>Docker</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br/><sub>AWS</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy"/><br/><sub>NumPy</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas"/><br/><sub>Pandas</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="HuggingFace"/><br/><sub>HuggingFace</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=keras" width="48" height="48" alt="Keras"/><br/><sub>Keras</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="HuggingFace"/><br/><sub>HuggingFace</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/><br/><sub>Jupyter</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/langchain/1C9C8C" width="48" height="48" alt="LangChain"/><br/><sub>LangChain</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/langgraph/C0392B" width="48" height="48" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/openai/74AA9C" width="48" height="48" alt="OpenAI"/><br/><sub>OpenAI</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini"/><br/><sub>Gemini</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/pinecone/00C4CC" width="48" height="48" alt="Pinecone"/><br/><sub>Pinecone</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/modelcontextprotocol/AAAAAA" width="48" height="48" alt="MCP"/><br/><sub>MCP</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/><br/><sub>n8n</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/langchain/1C9C8C" width="48" height="48" alt="LangChain"/><br/><sub>LangChain</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/langgraph/C0392B" width="48" height="48" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini"/><br/><sub>Gemini</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/modelcontextprotocol/AAAAAA" width="48" height="48" alt="MCP"/><br/><sub>MCP</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/><br/><sub>n8n</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/celery/37814A" width="48" height="48" alt="Celery"/><br/><sub>Celery</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/temporal/AAAAAA" width="48" height="48" alt="Temporal"/><br/><sub>Temporal</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/celery/37814A" width="48" height="48" alt="Celery"/><br/><sub>Celery</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/temporal/AAAAAA" width="48" height="48" alt="Temporal"/><br/><sub>Temporal</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" alt="Stripe"/><br/><sub>Stripe</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub>Git</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub>GitHub</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium"/><br/><sub>Selenium</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/playwright/2EAD33" width="48" height="48" alt="Playwright"/><br/><sub>Playwright</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" alt="Stripe"/><br/><sub>Stripe</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub>GitHub</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium"/><br/><sub>Selenium</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/><br/><sub>Vercel</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm"/><br/><sub>npm</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/><sub>VS Code</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/><br/><sub>C</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/><sub>C++</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/><sub>HTML5</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/><sub>CSS3</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/><br/><sub>SQL</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/><br/><sub>Jupyter</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/><br/><sub>C</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/><sub>C++</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/><sub>HTML5</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/><sub>CSS3</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/><br/><sub>SQL</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/><br/><sub>Vite</sub></td>
 </tr>
 </table>
 </div>
