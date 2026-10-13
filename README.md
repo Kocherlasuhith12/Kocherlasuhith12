@@ -1,15 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:130a20,100:C0392B&height=260&section=header&text=KKS%20Suhith%20Babu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Builder%20of%20things%20that%20matter&descSize=15&descAlignY=60&descColor=cccccc&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:3a1a00,100:FF6A00&height=260&section=header&text=KKS%20Suhith%20Babu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Builder%20of%20things%20that%20matter&descSize=15&descAlignY=60&descColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=E74C3C&center=true&vCenter=true&width=820&height=40&lines=Building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM%2C+live+in+production.;Building+TradeIQ+%E2%80%94+AI-native+B2B+commerce.;Rebuilding+ClinicalMind+as+a+LangGraph+multi-agent+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=FF8C1A&center=true&vCenter=true&width=820&height=40&lines=Building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM%2C+live+in+production.;Building+TradeIQ+%E2%80%94+AI-native+B2B+commerce.;Rebuilding+ClinicalMind+as+a+LangGraph+multi-agent+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://linkedin.com/in/kocherlasuhith"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/kocherlasravan12/"><img src="https://img.shields.io/badge/LeetCode-Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/kocherlasravan"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/Sravan26"><img src="https://img.shields.io/badge/Codolio-Portfolio-C0392B?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Kocherlasuhith12&color=C0392B&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <a href="https://linkedin.com/in/kocherlasuhith"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF6A00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/></a>
+  <a href="https://leetcode.com/u/kocherlasravan12/"><img src="https://img.shields.io/badge/LeetCode-Solver-FF6A00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a"/></a>
+  <a href="https://www.hackerrank.com/profile/kocherlasravan"><img src="https://img.shields.io/badge/HackerRank-Profile-FF6A00?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a1a"/></a>
+  <a href="https://codolio.com/profile/Sravan26"><img src="https://img.shields.io/badge/Codolio-Portfolio-FF6A00?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a1a"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Kocherlasuhith12&color=FF6A00&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 > **I don't build demos. I build full-stack systems people actually depend on, powered by AI where it earns its place.**
@@ -18,17 +18,35 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💻 ~/about
 
-```python
-class Suhith:
-    role      = "Full Stack + AI Engineer"
-    currently = "AI Engineer Intern @ BitApps"
-    education = "B.Tech CSE @ SRM IST Trichy (Class of 2027)"
-    building  = ["TradeIQ", "ClinicalMind (LangGraph rebuild)"]
-    shipped   = ["ResolveHub", "TrafficIQ", "Smart Risk AI"]
-    stack     = ["FastAPI", "Next.js", "LangGraph", "PostgreSQL", "Docker"]
-    open_to   = "Full Stack + AI roles, research collabs, hard problems"
+```bash
+┌──(suhith㉿github)-[~]
+└─$ whoami
+KKS Suhith Babu  //  Full Stack + AI Engineer  //  Backend Architect
+
+┌──(suhith㉿github)-[~]
+└─$ cat profile.conf
+ROLE        = "Full Stack + AI Engineer"
+CURRENT     = "AI Engineer Intern @ BitApps"
+EDUCATION   = "B.Tech CSE @ SRM IST Trichy [2027]"
+STACK       = ["FastAPI", "Next.js", "LangGraph", "PostgreSQL", "Docker"]
+OPEN_TO     = "Full Stack + AI roles | research collabs | hard problems"
+
+┌──(suhith㉿github)-[~]
+└─$ ls ./projects --status
+[LIVE]    ResolveHub      multi-tenant ITSM, in production
+[LIVE]    TrafficIQ       real-time YOLO traffic management
+[LIVE]    Smart Risk AI   ML project risk prediction
+[BUILD]   TradeIQ         AI-native B2B commerce platform
+[REBUILD] ClinicalMind    LangGraph multi-agent diagnostics
+
+┌──(suhith㉿github)-[~]
+└─$ echo $MOTTO
+"Ship systems people depend on. Use AI where it earns its place."
+
+┌──(suhith㉿github)-[~]
+└─$ _
 ```
 
 ---
@@ -66,7 +84,7 @@ class Suhith:
 </tr>
 <tr>
 <td align="center" width="14%"><img src="https://cdn.simpleicons.org/langchain/1C9C8C" width="48" height="48" alt="LangChain"/><br/><sub>LangChain</sub></td>
-<td align="center" width="14%"><img src="https://cdn.simpleicons.org/langgraph/C0392B" width="48" height="48" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
+<td align="center" width="14%"><img src="https://cdn.simpleicons.org/langgraph/FF6A00" width="48" height="48" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
 <td align="center" width="14%"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini"/><br/><sub>Gemini</sub></td>
 <td align="center" width="14%"><img src="https://cdn.simpleicons.org/modelcontextprotocol/AAAAAA" width="48" height="48" alt="MCP"/><br/><sub>MCP</sub></td>
 <td align="center" width="14%"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/><br/><sub>n8n</sub></td>
@@ -105,7 +123,7 @@ class Suhith:
 ### 🛡️ ResolveHub
 Multi-tenant enterprise ITSM platform: service desk, incident, problem, change, asset and knowledge management with AI triage and real-time SLA enforcement. Tenant isolation via Postgres Row-Level Security, SLA timers on Temporal, billing on Stripe.
 
-![status](https://img.shields.io/badge/status-live%20in%20production-2EC866?style=flat-square)
+![status](https://img.shields.io/badge/status-live%20in%20production-FF6A00?style=flat-square)
 
 [**Live App**](https://resolvehub-frontend-suhith.onrender.com) · [**API Docs**](https://resolvehub-api-suhith.onrender.com/docs) · [**Source**](https://github.com/Kocherlasuhith12/resolve-hub)
 
@@ -117,7 +135,7 @@ Multi-tenant enterprise ITSM platform: service desk, incident, problem, change, 
 ### 🏥 ClinicalMind
 AI diagnostic co-pilot for rural healthcare workers in India: voice via Whisper, image analysis via GPT-4o Vision, RAG over Pinecone. Multilingual (Tamil, Hindi, English). Being rebuilt as a **LangGraph multi-agent system** with agents for triage, self-correcting retrieval, diagnosis, critique and an emergency fast-path.
 
-![status](https://img.shields.io/badge/status-active%20rebuild-F39C12?style=flat-square)
+![status](https://img.shields.io/badge/status-active%20rebuild-FFA640?style=flat-square)
 
 [**Source**](https://github.com/Kocherlasuhith12/Clinical-mind)
 
@@ -129,7 +147,7 @@ AI diagnostic co-pilot for rural healthcare workers in India: voice via Whisper,
 ### 🛒 TradeIQ
 Intelligent B2B commerce platform combining full-stack e-commerce with AI-driven search and recommendation. Modular monolith (auth, catalog, pricing, checkout, orders, vendors, RFQ, AI, notifications), hybrid search via pgvector and a LangGraph conversational agent for product discovery.
 
-![status](https://img.shields.io/badge/status-build%20underway-3498DB?style=flat-square)
+![status](https://img.shields.io/badge/status-build%20underway-8b949e?style=flat-square)
 
 `FastAPI` `Next.js 14` `LangGraph` `pgvector` `Celery` `Temporal`
 
@@ -148,7 +166,7 @@ Intelligent B2B commerce platform combining full-stack e-commerce with AI-driven
 ### 🚦 TrafficIQ
 Real-time adaptive AI traffic management: YOLO vehicle/pedestrian detection driving signal optimization and emergency-vehicle priority, multi-junction live dashboard, GRU traffic forecasting and incident detection.
 
-![status](https://img.shields.io/badge/status-deployed-2EC866?style=flat-square)
+![status](https://img.shields.io/badge/status-deployed-FF6A00?style=flat-square)
 [**Live**](https://trafficiq-frontend.onrender.com) · [**Source**](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System)
 
 `YOLO` `FastAPI` `React` `Redis` `GRU` `OpenCV`
@@ -158,7 +176,7 @@ Real-time adaptive AI traffic management: YOLO vehicle/pedestrian detection driv
 ### 📊 Smart Risk AI
 ML-powered project risk prediction. Random Forest classifier behind FastAPI, JWT auth, full React dashboard.
 
-![status](https://img.shields.io/badge/status-deployed-2EC866?style=flat-square)
+![status](https://img.shields.io/badge/status-deployed-FF6A00?style=flat-square)
 [**Live**](https://smart-risk-ai2-git-main-kocherlasravan-gmailcoms-projects.vercel.app)
 
 `Python` `XGBoost` `FastAPI` `React` `JWT`
@@ -211,14 +229,14 @@ Tournament-grade Chain Reaction bot on a 12×8 board using Iterative Deepening A
 
 <div align="center">
 
-![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-Getting%20Started%20with%20AI-0d1117?style=for-the-badge&logo=ibm&logoColor=006699)
-![Coursera](https://img.shields.io/badge/Coursera-PyTorch%20Image%20Segmentation-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
-![Coursera](https://img.shields.io/badge/Univ.%20of%20London-Algorithms%20%26%20Flowcharts-0d1117?style=for-the-badge&logo=coursera&logoColor=0056D2)
-![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)
-![IIT Patna](https://img.shields.io/badge/IIT%20Patna-Critical%20Mass%20AI%20Bot%20Challenge-0d1117?style=for-the-badge&logoColor=C0392B)
-![MongoDB](https://img.shields.io/badge/MongoDB-12%20Micro--Certifications-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Micro--Certification-0d1117?style=for-the-badge&logo=servicenow&logoColor=62D84E)
-![Six Sigma](https://img.shields.io/badge/Anexas%20Europe-Lean%20Six%20Sigma%20Yellow%20Belt-0d1117?style=for-the-badge&logoColor=aaaaaa)
+![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-Getting%20Started%20with%20AI-0d1117?style=for-the-badge&logo=ibm&logoColor=FF8C1A)
+![Coursera](https://img.shields.io/badge/Coursera-PyTorch%20Image%20Segmentation-0d1117?style=for-the-badge&logo=coursera&logoColor=FF8C1A)
+![Coursera](https://img.shields.io/badge/Univ.%20of%20London-Algorithms%20%26%20Flowcharts-0d1117?style=for-the-badge&logo=coursera&logoColor=FF8C1A)
+![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-0d1117?style=for-the-badge&logo=hackerrank&logoColor=FF8C1A)
+![IIT Patna](https://img.shields.io/badge/IIT%20Patna-Critical%20Mass%20AI%20Bot%20Challenge-0d1117?style=for-the-badge&logoColor=FF8C1A)
+![MongoDB](https://img.shields.io/badge/MongoDB-12%20Micro--Certifications-0d1117?style=for-the-badge&logo=mongodb&logoColor=FF8C1A)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Micro--Certification-0d1117?style=for-the-badge&logo=servicenow&logoColor=FF8C1A)
+![Six Sigma](https://img.shields.io/badge/Anexas%20Europe-Lean%20Six%20Sigma%20Yellow%20Belt-0d1117?style=for-the-badge&logoColor=FF8C1A)
 
 </div>
 
@@ -228,16 +246,16 @@ Tournament-grade Chain Reaction bot on a 12×8 board using Iterative Deepening A
 
 <div align="center">
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=transparent&hide_border=true&ring=C0392B&fire=C0392B&currStreakLabel=ffffff&sideLabels=999999&dates=666666&sideNums=eeeeee&stroke=222222&timezone=Asia%2FKolkata" width="49%" />
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=transparent&hide_border=true&title_color=E74C3C&icon_color=C0392B&text_color=cccccc&rank_icon=github&hide=stars&cache_seconds=86400" width="47%" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=transparent&hide_border=true&ring=FF6A00&fire=FF6A00&currStreakNum=ffffff&currStreakLabel=FF8C1A&sideLabels=999999&dates=666666&sideNums=eeeeee&stroke=222222&timezone=Asia%2FKolkata" width="49%" />
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=transparent&hide_border=true&title_color=FF8C1A&icon_color=FF6A00&text_color=ffffff&rank_icon=github&hide=stars&cache_seconds=86400" width="47%" />
 
 <br/><br/>
 
-<img alt="Contribution calendar" src="https://ghchart.rshah.org/C0392B/Kocherlasuhith12" width="96%" />
+<img alt="Contribution calendar" src="https://ghchart.rshah.org/FF6A00/Kocherlasuhith12" width="96%" />
 
 <br/><br/>
 
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&title_color=E74C3C&text_color=cccccc&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="50%" />
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&title_color=FF8C1A&text_color=ffffff&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="50%" />
 
 </div>
 
@@ -248,13 +266,13 @@ Tournament-grade Chain Reaction bot on a 12×8 board using Iterative Deepening A
 <div align="center">
 
 <a href="https://leetcode.com/u/kocherlasravan12/">
-  <img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=4&bgcolor=0d1117&border_color=C0392B" height="175"/>
+  <img src="https://leetcard.jacoblin.cool/kocherlasravan12?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=4&bgcolor=0d1117&border_color=FF6A00" height="175"/>
 </a>
 
 <br/><br/>
 
-![GitHub Followers](https://img.shields.io/github/followers/Kocherlasuhith12?label=GitHub%20Followers&style=for-the-badge&color=C0392B&labelColor=111111&logo=github&logoColor=white)
-![GitHub Stars](https://img.shields.io/github/stars/Kocherlasuhith12?label=Total%20Stars&style=for-the-badge&color=C0392B&labelColor=111111&logo=github&logoColor=white&affiliations=OWNER)
+![GitHub Followers](https://img.shields.io/github/followers/Kocherlasuhith12?label=GitHub%20Followers&style=for-the-badge&color=FF6A00&labelColor=111111&logo=github&logoColor=white)
+![GitHub Stars](https://img.shields.io/github/stars/Kocherlasuhith12?label=Total%20Stars&style=for-the-badge&color=FF6A00&labelColor=111111&logo=github&logoColor=white&affiliations=OWNER)
 
 </div>
 
@@ -266,11 +284,11 @@ Tournament-grade Chain Reaction bot on a 12×8 board using Iterative Deepening A
 
 > **Open to:** Full Stack + AI engineering roles · research collabs · projects worth building · problems nobody's solved cleanly yet.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KKS_Suhith_Babu-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kocherlasuhith)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Grinding_DSA-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/kocherlasravan12/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solver-111111?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/kocherlasravan)
-[![Codolio](https://img.shields.io/badge/Codolio-Dev_Portfolio-111111?style=for-the-badge&logo=code&logoColor=C0392B)](https://codolio.com/profile/Sravan26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KKS_Suhith_Babu-111111?style=for-the-badge&logo=linkedin&logoColor=FF8C1A)](https://linkedin.com/in/kocherlasuhith)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Grinding_DSA-111111?style=for-the-badge&logo=leetcode&logoColor=FF8C1A)](https://leetcode.com/u/kocherlasravan12/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solver-111111?style=for-the-badge&logo=hackerrank&logoColor=FF8C1A)](https://www.hackerrank.com/profile/kocherlasravan)
+[![Codolio](https://img.shields.io/badge/Codolio-Dev_Portfolio-111111?style=for-the-badge&logo=code&logoColor=FF8C1A)](https://codolio.com/profile/Sravan26)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,60:130a20,100:050505&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,55:3a1a00,100:0d1117&height=120&section=footer)
