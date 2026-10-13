@@ -1,152 +1,135 @@
-<div align="center">  
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0d0d1a,60:130a20,100:0a0508&height=220&section=header&text=KKS%20Suhith%20Babu&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%2B%20AI%20Engineer%20%E2%80%94%20Backend%20Architect%20%E2%80%94%20Builder%20of%20things%20that%20matter&descSize=13&descAlignY=60&descColor=777777&animation=fadeIn) 
-     
-</div>   
-   
-<br/>
-
-<div align="center">  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=C0392B&center=true&vCenter=true&width=800&height=40&lines=Currently+building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps+%E2%80%94+Apr+2026+%E2%86%92+Present;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM+platform%2C+live+in+production.;Building+TradeIQ+%E2%80%94+AI-native+B2B+commerce+platform.;Rebuilding+ClinicalMind+into+a+LangGraph+multi-agent+diagnostic+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.;SRM+IST+Trichy+%E2%80%94+CSE+%E2%80%94+Class+of+2027.)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kocherlasuhith12&color=C0392B&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
 <div align="center">
 
-> **I don't build demos. I build full-stack systems people actually depend on — powered by AI where it earns its place.**
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:130a20,100:C0392B&height=260&section=header&text=KKS%20Suhith%20Babu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Builder%20of%20things%20that%20matter&descSize=15&descAlignY=60&descColor=cccccc&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=E74C3C&center=true&vCenter=true&width=820&height=40&lines=Building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM%2C+live+in+production.;Building+TradeIQ+%E2%80%94+AI-native+B2B+commerce.;Rebuilding+ClinicalMind+as+a+LangGraph+multi-agent+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://linkedin.com/in/kocherlasuhith"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/kocherlasravan12/"><img src="https://img.shields.io/badge/LeetCode-Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/kocherlasravan"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/Sravan26"><img src="https://img.shields.io/badge/Codolio-Portfolio-C0392B?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Kocherlasuhith12&color=C0392B&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+> **I don't build demos. I build full-stack systems people actually depend on, powered by AI where it earns its place.**
 
 </div>
 
 ---
 
-<br/>
+## 👨‍💻 About Me
 
-## ▎Core Skills & Technologies
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-### ⬡ Agentic AI & LLMs
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=C0392B)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
-![Groq](https://img.shields.io/badge/Groq-0d1117?style=for-the-badge&logoColor=F55036)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=C0392B)
-![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logoColor=00C4CC)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logoColor=C0392B)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0d1117?style=for-the-badge&logoColor=C0392B)
-![MCP Integration](https://img.shields.io/badge/MCP%20Integration-0d1117?style=for-the-badge&logoColor=aaaaaa)
-
-</td>
-<td valign="top" width="25%">
-
-### ⬡ Backend & Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A)
-![Temporal](https://img.shields.io/badge/Temporal-0d1117?style=for-the-badge&logo=temporal&logoColor=ffffff)
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-
-</td>
-<td valign="top" width="25%">
-
-### ⬡ AI / ML & Computer Vision
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logoColor=C0392B)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
-![YOLO](https://img.shields.io/badge/YOLO-0d1117?style=for-the-badge&logoColor=00FFAA)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=0081CB)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logoColor=0194E2)
-![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
-
-</td>
-<td valign="top" width="25%">
-
-### ⬡ Languages & Data
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-</td>
-</tr>
-</table>
-
-<br/>
+```python
+class Suhith:
+    role      = "Full Stack + AI Engineer"
+    currently = "AI Engineer Intern @ BitApps"
+    education = "B.Tech CSE @ SRM IST Trichy (Class of 2027)"
+    building  = ["TradeIQ", "ClinicalMind (LangGraph rebuild)"]
+    shipped   = ["ResolveHub", "TrafficIQ", "Smart Risk AI"]
+    stack     = ["FastAPI", "Next.js", "LangGraph", "PostgreSQL", "Docker"]
+    open_to   = "Full Stack + AI roles, research collabs, hard problems"
+```
 
 ---
 
-<br/>
+## 🛠️ Technologies I Build With
 
-## ▎Flagship Builds
+<div align="center">
+<table>
+<tr>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/><sub>React</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/><sub>Next.js</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br/><sub>Express</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br/><sub>Redis</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/><br/><sub>Supabase</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/><sub>Docker</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br/><sub>AWS</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy"/><br/><sub>NumPy</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas"/><br/><sub>Pandas</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="HuggingFace"/><br/><sub>HuggingFace</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/langchain/1C9C8C" width="48" height="48" alt="LangChain"/><br/><sub>LangChain</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/langgraph/C0392B" width="48" height="48" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/openai/74AA9C" width="48" height="48" alt="OpenAI"/><br/><sub>OpenAI</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini"/><br/><sub>Gemini</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/pinecone/00C4CC" width="48" height="48" alt="Pinecone"/><br/><sub>Pinecone</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/modelcontextprotocol/AAAAAA" width="48" height="48" alt="MCP"/><br/><sub>MCP</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/><br/><sub>n8n</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/celery/37814A" width="48" height="48" alt="Celery"/><br/><sub>Celery</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/temporal/AAAAAA" width="48" height="48" alt="Temporal"/><br/><sub>Temporal</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" alt="Stripe"/><br/><sub>Stripe</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub>GitHub</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium"/><br/><sub>Selenium</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/playwright/2EAD33" width="48" height="48" alt="Playwright"/><br/><sub>Playwright</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/><br/><sub>C</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/><sub>C++</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/><sub>HTML5</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/><sub>CSS3</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/><br/><sub>SQL</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/><br/><sub>Jupyter</sub></td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🚀 Flagship Builds
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 🛡️ ResolveHub
-Multi-tenant enterprise ITSM platform unifying service desk, incident, problem, change, asset, and knowledge management — with AI-powered triage and real-time SLA enforcement. Tenant isolation enforced via Postgres Row-Level Security; SLA timers on Temporal workflows; billing on Stripe.
+Multi-tenant enterprise ITSM platform: service desk, incident, problem, change, asset and knowledge management with AI triage and real-time SLA enforcement. Tenant isolation via Postgres Row-Level Security, SLA timers on Temporal, billing on Stripe.
 
-**Status: Live in production**
+![status](https://img.shields.io/badge/status-live%20in%20production-2EC866?style=flat-square)
 
-**[Live App](https://resolvehub-frontend-suhith.onrender.com)** · **[API Docs](https://resolvehub-api-suhith.onrender.com/docs)** · **[Source](https://github.com/Kocherlasuhith12/resolve-hub)**
+[**Live App**](https://resolvehub-frontend-suhith.onrender.com) · [**API Docs**](https://resolvehub-api-suhith.onrender.com/docs) · [**Source**](https://github.com/Kocherlasuhith12/resolve-hub)
 
-`FastAPI` `Async SQLAlchemy 2` `PostgreSQL RLS` `Temporal` `React 18` `TypeScript` `Google Gemini` `Stripe`
+`FastAPI` `SQLAlchemy 2` `PostgreSQL RLS` `Temporal` `React 18` `TypeScript` `Gemini` `Stripe`
 
 </td>
 <td width="33%" valign="top">
 
 ### 🏥 ClinicalMind
-AI diagnostic co-pilot for rural healthcare workers across India — voice input via Whisper, image analysis via GPT-4o Vision, RAG retrieval over a Pinecone knowledge base. Multilingual (Tamil, Hindi, English). Being rebuilt from a flat RAG pipeline into a production-grade **LangGraph multi-agent system** — dedicated agents for triage, self-correcting retrieval, diagnosis, critique, and an emergency fast-path.
+AI diagnostic co-pilot for rural healthcare workers in India: voice via Whisper, image analysis via GPT-4o Vision, RAG over Pinecone. Multilingual (Tamil, Hindi, English). Being rebuilt as a **LangGraph multi-agent system** with agents for triage, self-correcting retrieval, diagnosis, critique and an emergency fast-path.
 
-**Status: Active rebuild — multi-agent architecture in progress**
+![status](https://img.shields.io/badge/status-active%20rebuild-F39C12?style=flat-square)
 
-**[Source](https://github.com/Kocherlasuhith12/Clinical-mind)**
+[**Source**](https://github.com/Kocherlasuhith12/Clinical-mind)
 
-`FastAPI` `LangGraph` `Celery` `Redis` `PostgreSQL` `GPT-4o Vision` `Whisper` `LlamaIndex` `Pinecone` `React / Vite`
+`FastAPI` `LangGraph` `Celery` `Redis` `PostgreSQL` `GPT-4o Vision` `Whisper` `LlamaIndex` `Pinecone` `React`
 
 </td>
 <td width="33%" valign="top">
 
 ### 🛒 TradeIQ
-Intelligent B2B commerce platform combining full-stack e-commerce with AI-driven search and recommendation. Modular-monolith architecture (auth, catalog, pricing, cart/checkout, orders, vendors, RFQ, AI, notifications), hybrid search via pgvector, and a LangGraph conversational commerce agent for buyer-side product discovery.
+Intelligent B2B commerce platform combining full-stack e-commerce with AI-driven search and recommendation. Modular monolith (auth, catalog, pricing, checkout, orders, vendors, RFQ, AI, notifications), hybrid search via pgvector and a LangGraph conversational agent for product discovery.
 
-**Status: In design — architecture and roadmap finalized, build underway**
+![status](https://img.shields.io/badge/status-build%20underway-3498DB?style=flat-square)
 
 `FastAPI` `Next.js 14` `LangGraph` `pgvector` `Celery` `Temporal`
 
@@ -154,38 +137,36 @@ Intelligent B2B commerce platform combining full-stack e-commerce with AI-driven
 </tr>
 </table>
 
-<br/>
+---
 
-## ▎More Projects
+## 🧪 More Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🚦 TrafficIQ
-Real-time adaptive AI traffic management platform — YOLO-based live vehicle/pedestrian detection driving smart signal optimization and emergency vehicle prioritization, with a multi-junction live dashboard, GRU-based traffic forecasting, incident detection, and exportable analytics.
+Real-time adaptive AI traffic management: YOLO vehicle/pedestrian detection driving signal optimization and emergency-vehicle priority, multi-junction live dashboard, GRU traffic forecasting and incident detection.
 
-**Status: Deployed and live**
+![status](https://img.shields.io/badge/status-deployed-2EC866?style=flat-square)
+[**Live**](https://trafficiq-frontend.onrender.com) · [**Source**](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System)
 
-**[Live App](https://trafficiq-frontend.onrender.com)** · **[Source](https://github.com/Kocherlasuhith12/TrafficIQ-Smart_Traffic_Management_System)**
-
-`YOLO` `FastAPI` `React` `Redis` `GRU Forecasting` `OpenCV`
+`YOLO` `FastAPI` `React` `Redis` `GRU` `OpenCV`
 
 ---
 
 ### 📊 Smart Risk AI
-ML-powered project risk prediction platform. Random Forest classifier in a FastAPI backend, JWT auth, full React dashboard.
+ML-powered project risk prediction. Random Forest classifier behind FastAPI, JWT auth, full React dashboard.
 
-**Status: Deployed and live**
+![status](https://img.shields.io/badge/status-deployed-2EC866?style=flat-square)
+[**Live**](https://smart-risk-ai2-git-main-kocherlasravan-gmailcoms-projects.vercel.app)
 
-**[Live App](https://smart-risk-ai2-git-main-kocherlasravan-gmailcoms-projects.vercel.app)**
-
-`Python` `XGBoost` `FastAPI` `React` `JWT` `Vercel`
+`Python` `XGBoost` `FastAPI` `React` `JWT`
 
 ---
 
 ### ⚙️ Workflow Automation Stack
-Local Docker-based automation stack from the BitApps internship — n8n workflows triggered and orchestrated programmatically through a FastAPI backend, with Temporal and Restate handling durable execution.
+Docker-based stack from the BitApps internship: n8n workflows orchestrated through FastAPI, with Temporal and Restate for durable execution.
 
 `n8n` `FastAPI` `Temporal` `Restate` `Docker`
 
@@ -193,35 +174,40 @@ Local Docker-based automation stack from the BitApps internship — n8n workflow
 <td width="50%" valign="top">
 
 ### 🧠 Scalable LLM Fine-Tuning Pipeline
-Production-grade fine-tuning infrastructure for parameter-efficient LLM tuning (LoRA/QLoRA) with full MLflow experiment tracking, model versioning, and reproducible Docker environments.
+Parameter-efficient fine-tuning infrastructure (LoRA/QLoRA) with MLflow experiment tracking, model versioning and reproducible Docker environments.
 
 `PyTorch` `HuggingFace` `LoRA` `QLoRA` `MLflow` `Docker`
 
 ---
 
 ### 🌱 GreenGive
-Full-stack sustainability-focused web app built for a technical assessment — Next.js frontend, Supabase backend, Stripe payments.
+Sustainability-focused full-stack web app built for a technical assessment.
 
 `Next.js` `Supabase` `Stripe` `TypeScript`
 
 ---
 
-### 🔥 NeuralForge Bot *(Critical Mass @ IIT Patna)*
-Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deepening Alpha-Beta Minimax with custom heuristics. Result: **30/30 wins**, zero losses.
+### 🔥 NeuralForge Bot — *Critical Mass @ IIT Patna*
+Tournament-grade Chain Reaction bot on a 12×8 board using Iterative Deepening Alpha-Beta Minimax with custom heuristics. **30/30 wins, zero losses.**
 
-`Python` `IDAB Minimax` `Alpha-Beta Pruning` `Game Theory`
+`Python` `Minimax` `Alpha-Beta Pruning` `Game Theory`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## 💼 Experience
+
+| When | Role | What I did |
+|:--|:--|:--|
+| **Apr 2026 → Present** | AI Engineer Intern, **BitApps** | Built workflow automation and agentic AI systems (n8n, FastAPI, Temporal, Restate) |
+| **2023 → 2027** | B.Tech CSE, **SRM IST Trichy** | Full Stack, AI/ML, algorithms and systems |
 
 ---
 
-<br/>
-
-## ▎Certifications & Training
+## 🎓 Certifications & Training
 
 <div align="center">
 
@@ -236,37 +222,29 @@ Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deep
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## ▎GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=transparent&hide_border=true&ring=C0392B&fire=C0392B&currStreakLabel=ffffff&sideLabels=666666&dates=444444&sideNums=eeeeee&stroke=111111&timezone=Asia%2FKolkata" width="49%" />
-&nbsp;
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=transparent&hide_border=true&title_color=C0392B&icon_color=C0392B&text_color=cccccc&include_all_commits=true&rank_icon=github&hide=stars&cache_seconds=86400" width="47%" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Kocherlasuhith12&theme=transparent&hide_border=true&ring=C0392B&fire=C0392B&currStreakLabel=ffffff&sideLabels=999999&dates=666666&sideNums=eeeeee&stroke=222222&timezone=Asia%2FKolkata" width="49%" />
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kocherlasuhith12&show_icons=true&theme=transparent&hide_border=true&title_color=E74C3C&icon_color=C0392B&text_color=cccccc&include_all_commits=true&rank_icon=github&hide=stars&cache_seconds=86400" width="47%" />
 
 <br/><br/>
 
-<img alt="Contribution timeline" src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution+Timeline&bg_color=0d1117&color=C0392B&line=C0392B&point=ffffff&area=true&hide_border=true&area_color=1a0505" width="96%" />
+<img alt="Contribution timeline" src="https://github-readme-activity-graph.vercel.app/graph?username=Kocherlasuhith12&custom_title=Contribution+Timeline&bg_color=0d1117&color=E74C3C&line=C0392B&point=ffffff&area=true&hide_border=true&area_color=C0392B" width="96%" />
 
 <br/><br/>
 
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&title_color=C0392B&text_color=cccccc&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="38%" />
-&nbsp;
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kocherlasuhith12&layout=compact&theme=transparent&hide_border=true&title_color=E74C3C&text_color=cccccc&langs_count=6&hide=javascript,html,css&cache_seconds=86400" width="38%" />
 <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Kocherlasuhith12&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="56%" />
 
 </div>
 
 ---
 
-<br/>
-
-## ▎Problem Solving
+## 🧩 Problem Solving
 
 <div align="center">
 
@@ -277,41 +255,23 @@ Tournament-grade AI game bot for Chain Reaction on a 12×8 board. Iterative Deep
 <br/><br/>
 
 ![GitHub Followers](https://img.shields.io/github/followers/Kocherlasuhith12?label=GitHub%20Followers&style=for-the-badge&color=C0392B&labelColor=111111&logo=github&logoColor=white)
-&nbsp;
 ![GitHub Stars](https://img.shields.io/github/stars/Kocherlasuhith12?label=Total%20Stars&style=for-the-badge&color=C0392B&labelColor=111111&logo=github&logoColor=white&affiliations=OWNER)
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## ▎Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KKS_Suhith_Babu-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111111)](https://linkedin.com/in/kocherlasuhith)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Grinding_DSA-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=111111)](https://leetcode.com/u/kocherlasravan12/)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solver-111111?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=111111)](https://www.hackerrank.com/profile/kocherlasravan)
-&nbsp;
-[![Codolio](https://img.shields.io/badge/Codolio-Dev_Portfolio-111111?style=for-the-badge&logo=code&logoColor=C0392B&labelColor=111111)](https://codolio.com/profile/Sravan26)
-
-</div>
-
-<br/>
+## 🤝 Let's Connect
 
 <div align="center">
 
 > **Open to:** Full Stack + AI engineering roles · research collabs · projects worth building · problems nobody's solved cleanly yet.
->
-> SRM IST Trichy · CSE · 2027 · Full Stack + AI Engineer Intern @ BitApps · Builder.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KKS_Suhith_Babu-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kocherlasuhith)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Grinding_DSA-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/kocherlasravan12/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solver-111111?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/kocherlasravan)
+[![Codolio](https://img.shields.io/badge/Codolio-Dev_Portfolio-111111?style=for-the-badge&logo=code&logoColor=C0392B)](https://codolio.com/profile/Sravan26)
 
 </div>
 
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0508,30:130a20,60:0d0d1a,100:050505&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,60:130a20,100:050505&height=120&section=footer)
