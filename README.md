@@ -1,7 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:3a1a00,100:FF6A00&height=260&section=header&text=KKS%20Suhith%20Babu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Builder%20of%20things%20that%20matter&descSize=15&descAlignY=60&descColor=ffffff&animation=fadeIn)
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=FF8C1A&center=true&vCenter=true&width=820&height=40&lines=Building+Full+Stack+%2B+AI+products+end-to-end.;AI+Engineer+Intern+%40+BitApps;Shipped+ResolveHub+%E2%80%94+multi-tenant+ITSM%2C+live+in+production.;Building+TradeIQ+%E2%80%94+AI-native+B2B+commerce.;Rebuilding+ClinicalMind+as+a+LangGraph+multi-agent+system.;FastAPI+%2B+RAG+%2B+LangChain+%2B+Docker+%E2%80%94+shipped%2C+not+theorised.)](https://git.io/typing-svg)
 
 <p>
