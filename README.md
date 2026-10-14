@@ -29,7 +29,7 @@ KKS Suhith Babu  //  Full Stack + AI Engineer  //  Backend Architect
 └─$ cat profile.conf
 ROLE        = "Full Stack + AI Engineer"
 CURRENT     = "AI Engineer Intern @ BitApps"
-EDUCATION   = "B.Tech CSE @ SRM IST Trichy [2027]"
+EDUCATION   = "B.Tech CSE @ SRM IST Trichy [2027]" 
 STACK       = ["FastAPI", "Next.js", "LangGraph", "PostgreSQL", "Docker"]
 OPEN_TO     = "Full Stack + AI roles | research collabs | hard problems"
 
