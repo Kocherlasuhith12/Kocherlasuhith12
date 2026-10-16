@@ -18,36 +18,81 @@
 
 ---
 
-## 💻 ~/about
+## 🧬 Model Card
 
-```bash
-┌──(suhith㉿github)-[~]
-└─$ whoami
-KKS Suhith Babu  //  Full Stack + AI Engineer  //  Backend Architect
+<div align="center">
+<sub><code>KKS-Suhith-Babu</code> · v2027 · Full Stack + AI Engineer</sub>
+</div>
 
-┌──(suhith㉿github)-[~]
-└─$ cat profile.conf
-ROLE        = "Full Stack + AI Engineer"
-CURRENT     = "AI Engineer Intern @ BitApps"
-EDUCATION   = "B.Tech CSE @ SRM IST Trichy [2027]" 
-STACK       = ["FastAPI", "Next.js", "LangGraph", "PostgreSQL", "Docker"]
-OPEN_TO     = "Full Stack + AI roles | research collabs | hard problems"
+<br/>
 
-┌──(suhith㉿github)-[~]
-└─$ ls ./projects --status
-[LIVE]    ResolveHub      multi-tenant ITSM, in production
-[LIVE]    TrafficIQ       real-time YOLO traffic management
-[LIVE]    Smart Risk AI   ML project risk prediction
-[BUILD]   TradeIQ         AI-native B2B commerce platform
-[REBUILD] ClinicalMind    LangGraph multi-agent diagnostics
+<table>
+<tr>
+<td width="50%" valign="top">
 
-┌──(suhith㉿github)-[~]
-└─$ echo $MOTTO
-"Ship systems people depend on. Use AI where it earns its place."
+### Model details
 
-┌──(suhith㉿github)-[~]
-└─$ _
+| | |
+|:--|:--|
+| **Type** | Full Stack + AI Engineer, backend-leaning |
+| **Version** | 2027 · B.Tech CSE, SRM IST Trichy |
+| **Deployed at** | AI Engineer Intern @ BitApps |
+| **Core architecture** | `FastAPI` · `Next.js` · `LangGraph` · `PostgreSQL` · `Docker` |
+| **Open to** | Full Stack + AI roles · research collabs · hard problems |
+
+</td>
+<td width="50%" valign="top">
+
+### Field record
+
+| | |
+|:--|:--|
+| ![live](https://img.shields.io/badge/-LIVE-FF6A00?style=flat-square&labelColor=111111) | **3** systems in production: ResolveHub, TrafficIQ, Smart Risk AI |
+| ![build](https://img.shields.io/badge/-IN%20TRAINING-FFA640?style=flat-square&labelColor=111111) | **TradeIQ**, an AI-native B2B commerce platform |
+| ![rebuild](https://img.shields.io/badge/-RETRAINING-8b949e?style=flat-square&labelColor=111111) | **ClinicalMind**, rebuilt as a LangGraph multi-agent system |
+
+</td>
+</tr>
+</table>
+
+### Intended use
+
+**Primary:** Full Stack + AI roles where the backend matters and the AI has to justify itself.
+
+**Good fit for:** multi-tenant platforms, real-time pipelines, agent workflows, and anything that has to stay up when people depend on it.
+
+**Out of scope:** AI bolted onto a product so the pitch deck can say "AI-powered".
+
+### Design principle
+
+> *Ship systems people depend on. Use AI where it earns its place.*
+
+<details>
+<summary><b>Known limitations</b></summary>
+
+<br/>
+
+- May over-engineer a health-check endpoint.
+- Will ask "what happens when this fails?" in the middle of a happy-path demo.
+- Performance degrades without a clear problem statement, and improves sharply when the problem is hard.
+
+</details>
+
+<details>
+<summary><b>Cite this engineer</b></summary>
+
+<br/>
+
+```bibtex
+@person{suhith2027,
+  author = {KKS Suhith Babu},
+  title  = {Full Stack + AI Engineer},
+  year   = {2027},
+  note   = {Open to full stack + AI roles, research collabs, hard problems}
+}
 ```
+
+</details>
 
 ---
 
